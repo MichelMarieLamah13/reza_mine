@@ -56,8 +56,8 @@ function add_section(data){
 
 
     const hr = document.createElement("hr")
+   
     previous.after(hr)
-
     hr.after(section)
 }
 
@@ -66,10 +66,10 @@ function create_content(){
     const toc = document.querySelector("#section-0 .toc")
     toc.innerHTML = ""
 
-    const hr = document.querySelector("hr")
-    if (hr){
+    const hrs = document.querySelectorAll("hr")
+    hrs.forEach(hr =>{
         hr.remove()
-    }
+    })
 
     DATA.forEach(d => {
         add_toc(toc, d.id, d.title)
