@@ -15,6 +15,10 @@ export const DATA = [
                         path: "WB_samples/CC_8000/M1.flac"
                     },
                     {
+                        title: "CC at 7.2 kbps (small)",
+                        path: "WB_samples/nf_100_fs_64/model_3000_decoder/M1.flac"
+                    },
+                    {
                         title: "CC at 3.6 kbps (strides only)",
                         path: "WB_samples/nf_50_fs_64/best_global_2535_decoder/M1.flac"
                     },
@@ -39,6 +43,10 @@ export const DATA = [
                     {
                         title: "CC at 7.2 kbps (original)",
                         path: "WB_samples/CC_8000/M2.flac"
+                    },
+                    {
+                        title: "CC at 7.2 kbps (small)",
+                        path: "WB_samples/nf_100_fs_64/model_3000_decoder/M2.flac"
                     },
                     {
                         title: "CC at 3.6 kbps (strides only)",
@@ -67,6 +75,10 @@ export const DATA = [
                         path: "WB_samples/CC_8000/F1.flac"
                     },
                     {
+                        title: "CC at 7.2 kbps (small)",
+                        path: "WB_samples/nf_100_fs_64/model_3000_decoder/F1.flac"
+                    },
+                    {
                         title: "CC at 3.6 kbps (strides only)",
                         path: "WB_samples/nf_50_fs_64/best_global_2535_decoder/F1.flac"
                     },
@@ -91,6 +103,10 @@ export const DATA = [
                     {
                         title: "CC at 7.2 kbps (original)",
                         path: "WB_samples/CC_8000/F2.flac"
+                    },
+                    {
+                        title: "CC at 7.2 kbps (small)",
+                        path: "WB_samples/nf_100_fs_64/model_3000_decoder/F2.flac"
                     },
                     {
                         title: "CC at 3.6 kbps (strides only)",
@@ -125,6 +141,10 @@ export const DATA = [
                         path: "FB_samples/CC_16000/M1.flac"
                     },
                     {
+                        title: "CC at 7.2 kbps (small)",
+                        path: "FB_samples/nf_100_fs_64/model_3000_decoder/M1.wav"
+                    },
+                    {
                         title: "CC at 3.6 kbps (strides only)",
                         path: "FB_samples/nf_50_fs_64/best_global_2535_decoder/M1.wav"
                     },
@@ -149,6 +169,10 @@ export const DATA = [
                     {
                         title: "CC at 14.4 kbps (original)",
                         path: "FB_samples/CC_16000/M2.flac"
+                    },
+                    {
+                        title: "CC at 7.2 kbps (small)",
+                        path: "FB_samples/nf_100_fs_64/model_3000_decoder/M2.wav"
                     },
                     {
                         title: "CC at 3.6 kbps (strides only)",
@@ -177,6 +201,10 @@ export const DATA = [
                         path: "FB_samples/CC_16000/F1.flac"
                     },
                     {
+                        title: "CC at 7.2 kbps (small)",
+                        path: "FB_samples/nf_100_fs_64/model_3000_decoder/F1.wav"
+                    },
+                    {
                         title: "CC at 3.6 kbps (strides only)",
                         path: "FB_samples/nf_50_fs_64/best_global_2535_decoder/F1.wav"
                     },
@@ -201,6 +229,10 @@ export const DATA = [
                     {
                         title: "CC at 14.4 kbps (original)",
                         path: "FB_samples/CC_16000/F2.flac"
+                    },
+                    {
+                        title: "CC at 7.2 kbps (small)",
+                        path: "FB_samples/nf_100_fs_64/model_3000_decoder/F2.wav"
                     },
                     {
                         title: "CC at 3.6 kbps (strides only)",
