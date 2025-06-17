@@ -2,9 +2,11 @@ export const DATA = [
     {
         id: 1,
         title: "Wideband (16 kHz)",
+        hide: false,
         content: [
             {
                 title: "<i class='fas fa-male'></i> <i class='fa-solid fa-1'></i>",
+                hide: false,
                 content: [
                     {
                         title: "Original input",
@@ -14,7 +16,7 @@ export const DATA = [
                     {
                         title: "CC at 7.2 kbps (original)",
                         path: "WB_samples/CC_8000/M1.flac",
-                        hide: true
+                        hide: false
                     },
                     {
                         title: "CC at 7.2 kbps (small)",
@@ -46,6 +48,7 @@ export const DATA = [
             },
             {
                 title: "<i class='fas fa-male'></i> <i class='fa-solid fa-2'></i>",
+                hide: false,
                 content: [
                     {
                         title: "Original input",
@@ -55,7 +58,7 @@ export const DATA = [
                     {
                         title: "CC at 7.2 kbps (original)",
                         path: "WB_samples/CC_8000/M2.flac",
-                        hide: true
+                        hide: false
                     },
                     {
                         title: "CC at 7.2 kbps (small)",
@@ -87,6 +90,7 @@ export const DATA = [
             },
             {
                 title: "<i class='fas fa-female'></i> <i class='fa-solid fa-1'></i>",
+                hide: false,
                 content: [
                     {
                         title: "Original input",
@@ -96,7 +100,7 @@ export const DATA = [
                     {
                         title: "CC at 7.2 kbps (original)",
                         path: "WB_samples/CC_8000/F1.flac",
-                        hide: true
+                        hide: false
                     },
                     {
                         title: "CC at 7.2 kbps (small)",
@@ -128,6 +132,7 @@ export const DATA = [
             },
             {
                 title: "<i class='fas fa-female'></i> <i class='fa-solid fa-2'></i>",
+                hide: false,
                 content: [
                     {
                         title: "Original input",
@@ -137,7 +142,7 @@ export const DATA = [
                     {
                         title: "CC at 7.2 kbps (original)",
                         path: "WB_samples/CC_8000/F2.flac",
-                        hide: true
+                        hide: false
                     },
                     {
                         title: "CC at 7.2 kbps (small)",
@@ -172,9 +177,11 @@ export const DATA = [
     {
         id: 2,
         title: "Fullband (48 kHz)",
+        hide: false,
         content: [
             {
                 title: "<i class='fas fa-male'></i> <i class='fa-solid fa-1'></i>",
+                hide: false,
                 content: [
                     {
                         title: "Original input",
@@ -184,7 +191,7 @@ export const DATA = [
                     {
                         title: "CC at 14.4 kbps (original)",
                         path: "FB_samples/CC_16000/M1.flac",
-                        hide: true
+                        hide: false
                     },
                     {
                         title: "CC at 7.2 kbps (small)",
@@ -216,6 +223,7 @@ export const DATA = [
             },
             {
                 title: "<i class='fas fa-male'></i> <i class='fa-solid fa-2'></i>",
+                hide: false,
                 content: [
                     {
                         title: "Original input",
@@ -225,7 +233,7 @@ export const DATA = [
                     {
                         title: "CC at 14.4 kbps (original)",
                         path: "FB_samples/CC_16000/M2.flac",
-                        hide: true
+                        hide: false
                     },
                     {
                         title: "CC at 7.2 kbps (small)",
@@ -257,6 +265,7 @@ export const DATA = [
             },
             {
                 title: "<i class='fas fa-female'></i> <i class='fa-solid fa-1'></i>",
+                hide: false,
                 content: [
                     {
                         title: "Original input",
@@ -266,7 +275,7 @@ export const DATA = [
                     {
                         title: "CC at 14.4 kbps (original)",
                         path: "FB_samples/CC_16000/F1.flac",
-                        hide: true
+                        hide: false
                     },
                     {
                         title: "CC at 7.2 kbps (small)",
@@ -298,6 +307,7 @@ export const DATA = [
             },
             {
                 title: "<i class='fas fa-female'></i> <i class='fa-solid fa-2'></i>",
+                hide: false,
                 content: [
                     {
                         title: "Original input",
@@ -307,7 +317,7 @@ export const DATA = [
                     {
                         title: "CC at 14.4 kbps (original)",
                         path: "FB_samples/CC_16000/F2.flac",
-                        hide: true
+                        hide: false
                     },
                     {
                         title: "CC at 7.2 kbps (small)",

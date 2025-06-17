@@ -35,23 +35,26 @@ function add_section(data){
     section.appendChild(h2)
 
     data.content.forEach(d => {
-        const h3 = document.createElement("h3")
-        h3.innerHTML = d.title
-        section.appendChild(h3)
-
-        const divs = document.createElement("div")
-        divs.className = "playlist"
-        d.content.forEach(c => {
-            const div = document.createElement("div")
-            div.className = "labeled-audio labeled-audio2"
-            div.innerHTML = `
-                <p class='text text2'> ${c.title}</p>
-                <audio preload='metadata' controls><source class='select-real' src='${c.path}' type='audio/mpeg'></audio>
-            `
-            divs.appendChild(div)
-
-        })
-        section.appendChild(divs)
+        if (!d.hide){
+            const h3 = document.createElement("h3")
+            h3.innerHTML = d.title
+            section.appendChild(h3)
+    
+            const divs = document.createElement("div")
+            divs.className = "playlist"
+            d.content.forEach(c => {
+                if (!c.hide){
+                    const div = document.createElement("div")
+                    div.className = "labeled-audio labeled-audio2"
+                    div.innerHTML = `
+                        <p class='text text2'> ${c.title}</p>
+                        <audio preload='metadata' controls><source class='select-real' src='${c.path}' type='audio/mpeg'></audio>
+                    `
+                    divs.appendChild(div)
+                }
+            })
+            section.appendChild(divs)
+        }
     })
 
 
@@ -69,6 +72,11 @@ function create_content(){
     const hrs = document.querySelectorAll("hr")
     hrs.forEach(hr =>{
         hr.remove()
+    })
+
+    const divs = document.querySelectorAll(".labeled-audio")
+    divs.forEach(div=>{
+        div.remove()
     })
 
     DATA.forEach(d => {
