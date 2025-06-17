@@ -72,8 +72,10 @@ function create_content(){
     })
 
     DATA.forEach(d => {
-        add_toc(toc, d.id, d.title)
-        add_section(d)
+        if (!d.hide){
+            add_toc(toc, d.id, d.title)
+            add_section(d)
+        }
     })
     
 }

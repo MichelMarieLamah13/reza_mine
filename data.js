@@ -8,27 +8,38 @@ export const DATA = [
                 content: [
                     {
                         title: "Original input",
-                        path: "WB_samples/original/M1.flac"
+                        path: "WB_samples/original/M1.flac",
+                        hide: false
                     },
                     {
                         title: "CC at 7.2 kbps (original)",
-                        path: "WB_samples/CC_8000/M1.flac"
+                        path: "WB_samples/CC_8000/M1.flac",
+                        hide: true
                     },
                     {
                         title: "CC at 7.2 kbps (small)",
-                        path: "WB_samples/nf_100_fs_64/model_3000_decoder/M1.flac"
+                        path: "WB_samples/nf_100_fs_64/M1.flac",
+                        hide: false
                     },
                     {
                         title: "CC at 3.6 kbps (strides only)",
-                        path: "WB_samples/nf_50_fs_64/best_global_2535_decoder/M1.flac"
+                        path: "WB_samples/nf_50_fs_64/M1.flac",
+                        hide: false
+                    },
+                    {
+                        title: "CC at 3.6 kbps (features)",
+                        path: "WB_samples/nf_100_fs_32/M1.flac",
+                        hide: false
                     },
                     {
                         title: "AMR-WB at 8.85 kbps",
-                        path: "WB_samples/AMR-WB-8850/M1.wav"
+                        path: "WB_samples/AMR-WB-8850/M1.wav",
+                        hide: true
                     },
                     {
                         title: "AMR-WB at 12.65 kbps",
-                        path: "WB_samples/AMR-WB-12650/M1.wav"
+                        path: "WB_samples/AMR-WB-12650/M1.wav",
+                        hide: true
                     },
 
                 ]
@@ -38,27 +49,38 @@ export const DATA = [
                 content: [
                     {
                         title: "Original input",
-                        path: "WB_samples/original/M2.flac"
+                        path: "WB_samples/original/M2.flac",
+                        hide: false
                     },
                     {
                         title: "CC at 7.2 kbps (original)",
-                        path: "WB_samples/CC_8000/M2.flac"
+                        path: "WB_samples/CC_8000/M2.flac",
+                        hide: true
                     },
                     {
                         title: "CC at 7.2 kbps (small)",
-                        path: "WB_samples/nf_100_fs_64/model_3000_decoder/M2.flac"
+                        path: "WB_samples/nf_100_fs_64/M2.flac",
+                        hide: false
                     },
                     {
                         title: "CC at 3.6 kbps (strides only)",
-                        path: "WB_samples/nf_50_fs_64/best_global_2535_decoder/M2.flac"
+                        path: "WB_samples/nf_50_fs_64/M2.flac",
+                        hide: false
+                    },
+                    {
+                        title: "CC at 3.6 kbps (features)",
+                        path: "WB_samples/nf_100_fs_32/M2.flac",
+                        hide: false
                     },
                     {
                         title: "AMR-WB at 8.85 kbps",
-                        path: "WB_samples/AMR-WB-8850/M2.wav"
+                        path: "WB_samples/AMR-WB-8850/M2.wav",
+                        hide: true
                     },
                     {
                         title: "AMR-WB at 12.65 kbps",
-                        path: "WB_samples/AMR-WB-12650/M2.wav"
+                        path: "WB_samples/AMR-WB-12650/M2.wav",
+                        hide: true
                     },
 
                 ]
@@ -68,27 +90,38 @@ export const DATA = [
                 content: [
                     {
                         title: "Original input",
-                        path: "WB_samples/original/F1.flac"
+                        path: "WB_samples/original/F1.flac",
+                        hide: false
                     },
                     {
                         title: "CC at 7.2 kbps (original)",
-                        path: "WB_samples/CC_8000/F1.flac"
+                        path: "WB_samples/CC_8000/F1.flac",
+                        hide: true
                     },
                     {
                         title: "CC at 7.2 kbps (small)",
-                        path: "WB_samples/nf_100_fs_64/model_3000_decoder/F1.flac"
+                        path: "WB_samples/nf_100_fs_64/F1.flac",
+                        hide: false
                     },
                     {
                         title: "CC at 3.6 kbps (strides only)",
-                        path: "WB_samples/nf_50_fs_64/best_global_2535_decoder/F1.flac"
+                        path: "WB_samples/nf_50_fs_64/F1.flac",
+                        hide: false
+                    },
+                    {
+                        title: "CC at 3.6 kbps (features)",
+                        path: "WB_samples/nf_100_fs_32/F1.flac",
+                        hide: false
                     },
                     {
                         title: "AMR-WB at 8.85 kbps",
-                        path: "WB_samples/AMR-WB-8850/F1.wav"
+                        path: "WB_samples/AMR-WB-8850/F1.wav",
+                        hide: true
                     },
                     {
                         title: "AMR-WB at 12.65 kbps",
-                        path: "WB_samples/AMR-WB-12650/F1.wav"
+                        path: "WB_samples/AMR-WB-12650/F1.wav",
+                        hide: true
                     },
 
                 ]
@@ -98,27 +131,38 @@ export const DATA = [
                 content: [
                     {
                         title: "Original input",
-                        path: "WB_samples/original/F2.flac"
+                        path: "WB_samples/original/F2.flac",
+                        hide: false
                     },
                     {
                         title: "CC at 7.2 kbps (original)",
-                        path: "WB_samples/CC_8000/F2.flac"
+                        path: "WB_samples/CC_8000/F2.flac",
+                        hide: true
                     },
                     {
                         title: "CC at 7.2 kbps (small)",
-                        path: "WB_samples/nf_100_fs_64/model_3000_decoder/F2.flac"
+                        path: "WB_samples/nf_100_fs_64/F2.flac",
+                        hide: false
                     },
                     {
                         title: "CC at 3.6 kbps (strides only)",
-                        path: "WB_samples/nf_50_fs_64/best_global_2535_decoder/F2.flac"
+                        path: "WB_samples/nf_50_fs_64/F2.flac",
+                        hide: false
+                    },
+                    {
+                        title: "CC at 3.6 kbps (features)",
+                        path: "WB_samples/nf_100_fs_32/F2.flac",
+                        hide: false
                     },
                     {
                         title: "AMR-WB at 8.85 kbps",
-                        path: "WB_samples/AMR-WB-8850/F2.wav"
+                        path: "WB_samples/AMR-WB-8850/F2.wav",
+                        hide: true
                     },
                     {
                         title: "AMR-WB at 12.65 kbps",
-                        path: "WB_samples/AMR-WB-12650/F2.wav"
+                        path: "WB_samples/AMR-WB-12650/F2.wav",
+                        hide: true
                     },
 
                 ]
@@ -134,27 +178,38 @@ export const DATA = [
                 content: [
                     {
                         title: "Original input",
-                        path: "FB_samples/Original/M1.wav"
+                        path: "FB_samples/Original/M1.wav",
+                        hide: false
                     },
                     {
                         title: "CC at 14.4 kbps (original)",
-                        path: "FB_samples/CC_16000/M1.flac"
+                        path: "FB_samples/CC_16000/M1.flac",
+                        hide: true
                     },
                     {
                         title: "CC at 7.2 kbps (small)",
-                        path: "FB_samples/nf_100_fs_64/model_3000_decoder/M1.wav"
+                        path: "FB_samples/nf_100_fs_64/M1.wav",
+                        hide: false
                     },
                     {
                         title: "CC at 3.6 kbps (strides only)",
-                        path: "FB_samples/nf_50_fs_64/best_global_2535_decoder/M1.wav"
+                        path: "FB_samples/nf_50_fs_64/M1.wav",
+                        hide: false
+                    },
+                    {
+                        title: "CC at 3.6 kbps (features)",
+                        path: "FB_samples/nf_100_fs_32/M1.wav",
+                        hide: false
                     },
                     {
                         title: "EVS at 16.4 kbps",
-                        path: "FB_samples/EVS_16400/M1.wav"
+                        path: "FB_samples/EVS_16400/M1.wav",
+                        hide: true
                     },
                     {
                         title: "EVS at 24.4 kbps",
-                        path: "FB_samples/EVS_24400/M1.wav"
+                        path: "FB_samples/EVS_24400/M1.wav",
+                        hide: true
                     }
 
                 ]
@@ -164,27 +219,38 @@ export const DATA = [
                 content: [
                     {
                         title: "Original input",
-                        path: "FB_samples/Original/M2.wav"
+                        path: "FB_samples/Original/M2.wav",
+                        hide: false
                     },
                     {
                         title: "CC at 14.4 kbps (original)",
-                        path: "FB_samples/CC_16000/M2.flac"
+                        path: "FB_samples/CC_16000/M2.flac",
+                        hide: true
                     },
                     {
                         title: "CC at 7.2 kbps (small)",
-                        path: "FB_samples/nf_100_fs_64/model_3000_decoder/M2.wav"
+                        path: "FB_samples/nf_100_fs_64/M2.wav",
+                        hide: false
                     },
                     {
                         title: "CC at 3.6 kbps (strides only)",
-                        path: "FB_samples/nf_50_fs_64/best_global_2535_decoder/M2.wav"
+                        path: "FB_samples/nf_50_fs_64/M2.wav",
+                        hide: false
+                    },
+                    {
+                        title: "CC at 3.6 kbps (features)",
+                        path: "FB_samples/nf_100_fs_32/M2.wav",
+                        hide: false
                     },
                     {
                         title: "EVS at 16.4 kbps",
-                        path: "FB_samples/EVS_16400/M2.wav"
+                        path: "FB_samples/EVS_16400/M2.wav",
+                        hide: true
                     },
                     {
                         title: "EVS at 24.4 kbps",
-                        path: "FB_samples/EVS_24400/M2.wav"
+                        path: "FB_samples/EVS_24400/M2.wav",
+                        hide: true
                     }
 
                 ]
@@ -194,27 +260,38 @@ export const DATA = [
                 content: [
                     {
                         title: "Original input",
-                        path: "FB_samples/Original/F1.wav"
+                        path: "FB_samples/Original/F1.wav",
+                        hide: false
                     },
                     {
                         title: "CC at 14.4 kbps (original)",
-                        path: "FB_samples/CC_16000/F1.flac"
+                        path: "FB_samples/CC_16000/F1.flac",
+                        hide: true
                     },
                     {
                         title: "CC at 7.2 kbps (small)",
-                        path: "FB_samples/nf_100_fs_64/model_3000_decoder/F1.wav"
+                        path: "FB_samples/nf_100_fs_64/F1.wav",
+                        hide: false
                     },
                     {
                         title: "CC at 3.6 kbps (strides only)",
-                        path: "FB_samples/nf_50_fs_64/best_global_2535_decoder/F1.wav"
+                        path: "FB_samples/nf_50_fs_64/F1.wav",
+                        hide: false
+                    },
+                    {
+                        title: "CC at 3.6 kbps (features)",
+                        path: "FB_samples/nf_100_fs_32/F1.wav",
+                        hide: false
                     },
                     {
                         title: "EVS at 16.4 kbps",
-                        path: "FB_samples/EVS_16400/F1.wav"
+                        path: "FB_samples/EVS_16400/F1.wav",
+                        hide: true
                     },
                     {
                         title: "EVS at 24.4 kbps",
-                        path: "FB_samples/EVS_24400/F1.wav"
+                        path: "FB_samples/EVS_24400/F1.wav",
+                        hide: true
                     }
 
                 ]
@@ -224,27 +301,38 @@ export const DATA = [
                 content: [
                     {
                         title: "Original input",
-                        path: "FB_samples/Original/F2.wav"
+                        path: "FB_samples/Original/F2.wav",
+                        hide: false
                     },
                     {
                         title: "CC at 14.4 kbps (original)",
-                        path: "FB_samples/CC_16000/F2.flac"
+                        path: "FB_samples/CC_16000/F2.flac",
+                        hide: true
                     },
                     {
                         title: "CC at 7.2 kbps (small)",
-                        path: "FB_samples/nf_100_fs_64/model_3000_decoder/F2.wav"
+                        path: "FB_samples/nf_100_fs_64/F2.wav",
+                        hide: false
                     },
                     {
                         title: "CC at 3.6 kbps (strides only)",
-                        path: "FB_samples/nf_50_fs_64/best_global_2535_decoder/F2.wav"
+                        path: "FB_samples/nf_50_fs_64/F2.wav",
+                        hide: false
+                    },
+                    {
+                        title: "CC at 3.6 kbps (features)",
+                        path: "FB_samples/nf_100_fs_32/F2.wav",
+                        hide: false
                     },
                     {
                         title: "EVS at 16.4 kbps",
-                        path: "FB_samples/EVS_16400/F2.wav"
+                        path: "FB_samples/EVS_16400/F2.wav",
+                        hide: true
                     },
                     {
                         title: "EVS at 24.4 kbps",
-                        path: "FB_samples/EVS_24400/F2.wav"
+                        path: "FB_samples/EVS_24400/F2.wav",
+                        hide: true
                     }
 
                 ]
@@ -269,8 +357,8 @@ export const NOTE = [
     </ul>`,
     ` To reduce the bitrate, we can either decrease \\( N_{\\text{frames}} \\) or \\( N_{\\text{features}} \\), since \\( N_{\\text{bits}} \\) is already at its minimum: <strong>1 bit</strong>.`,
     `
-    The audio samples provided here were generated by reducing the <strong>number of frames</strong>. 
-    In another work, we will explore the impact of reducing the <strong>number of features</strong>.`,
+    The audio samples provided here were generated by reducing the <strong>number of frames</strong> or the <strong>number of features</strong>. 
+    In another work, we will explore the impact of using a <strong>vector quantizer</strong>.`,
     "The samples include both female (<i class='fas fa-female'></i>) and male (<i class='fas fa-male'></i>) voices."
   
 ]
