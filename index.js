@@ -25,11 +25,6 @@ function add_section(data){
 
     const previous = document.getElementById("section-"+(data.id - 1))
 
-    const existing = document.getElementById(section.id)
-    if (existing){
-        existing.remove()
-    }
-
     const h2 = document.createElement("h2")
     h2.innerHTML = data.title
     section.appendChild(h2)
@@ -80,6 +75,10 @@ function create_content(){
     })
 
     DATA.forEach(d => {
+        const existing = document.getElementById("section-"+d.id)
+        if (existing){
+            existing.remove()
+        }
         if (!d.hide){
             add_toc(toc, d.id, d.title)
             add_section(d)

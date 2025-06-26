@@ -197,7 +197,7 @@ export const DATA = [
     {
         id: 2,
         title: "Fullband (48 kHz)",
-        hide: false,
+        hide: true,
         content: [
             {
                 title: "<i class='fas fa-male'></i> <i class='fa-solid fa-1'></i>",
@@ -389,6 +389,102 @@ export const DATA = [
             },
         ]
     },
+    {
+        id: 2,
+        title: "Fixed weights vs learneable weights",
+        hide: false,
+        content: [
+            {
+                title: "<i class='fas fa-male'></i> <i class='fa-solid fa-1'></i>",
+                hide: false,
+                content: [
+                    {
+                        title: "Original input",
+                        path: "WB_samples/original/M1.flac",
+                        hide: false
+                    },
+                    {
+                        title: "CC at 7.2 kbps (fixed)",
+                        path: "WB_samples/nf_100_fs_64/M1.flac",
+                        hide: false
+                    },
+                    {
+                        title: "CC at 7.2 kbps (learnable)",
+                        path: "WB_samples/nf_100_fs_64_lw/M1.flac",
+                        hide: false
+                    },
+
+                ]
+            },
+            {
+                title: "<i class='fas fa-male'></i> <i class='fa-solid fa-2'></i>",
+                hide: false,
+                content: [
+                    {
+                        title: "Original input",
+                        path: "WB_samples/original/M2.flac",
+                        hide: false
+                    },
+                    {
+                        title: "CC at 7.2 kbps (fixed)",
+                        path: "WB_samples/nf_100_fs_64/M2.flac",
+                        hide: false
+                    },
+                    {
+                        title: "CC at 7.2 kbps (learnable)",
+                        path: "WB_samples/nf_100_fs_64_lw/M2.flac",
+                        hide: false
+                    },
+
+                ]
+            },
+            {
+                title: "<i class='fas fa-female'></i> <i class='fa-solid fa-1'></i>",
+                hide: false,
+                content: [
+                    {
+                        title: "Original input",
+                        path: "WB_samples/original/F1.flac",
+                        hide: false
+                    },
+                    {
+                        title: "CC at 7.2 kbps (fixed)",
+                        path: "WB_samples/nf_100_fs_64/F1.flac",
+                        hide: false
+                    },
+                    {
+                        title: "CC at 7.2 kbps (learnable)",
+                        path: "WB_samples/nf_100_fs_64_lw/F1.flac",
+                        hide: false
+                    },
+
+                ]
+            },
+            {
+                title: "<i class='fas fa-female'></i> <i class='fa-solid fa-2'></i>",
+                hide: false,
+                content: [
+                    {
+                        title: "Original input",
+                        path: "WB_samples/original/F2.flac",
+                        hide: false
+                    },
+                    {
+                        title: "CC at 7.2 kbps (fixed)",
+                        path: "WB_samples/nf_100_fs_64/F2.flac",
+                        hide: false
+                    },
+                    {
+                        title: "CC at 7.2 kbps (learnable)",
+                        path: "WB_samples/nf_100_fs_64_lw/F2.flac",
+                        hide: false
+                    },
+
+                ]
+            }
+        ]
+    },
+
     
 ]
 
