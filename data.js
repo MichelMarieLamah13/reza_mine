@@ -29,6 +29,11 @@ export const DATA = [
                         hide: false
                     },
                     {
+                        title: "CC at 3.6 kbps (strides + kernels)",
+                        path: "WB_samples/nf_50_fs_64_v3/M1.flac",
+                        hide: false
+                    },
+                    {
                         title: "CC at 3.6 kbps (features)",
                         path: "WB_samples/nf_100_fs_32/M1.flac",
                         hide: false
@@ -68,6 +73,11 @@ export const DATA = [
                     {
                         title: "CC at 3.6 kbps (strides only)",
                         path: "WB_samples/nf_50_fs_64/M2.flac",
+                        hide: false
+                    },
+                    {
+                        title: "CC at 3.6 kbps (strides + kernels)",
+                        path: "WB_samples/nf_50_fs_64_v3/M2.flac",
                         hide: false
                     },
                     {
@@ -113,6 +123,11 @@ export const DATA = [
                         hide: false
                     },
                     {
+                        title: "CC at 3.6 kbps (strides + kernels)",
+                        path: "WB_samples/nf_50_fs_64_v3/F1.flac",
+                        hide: false
+                    },
+                    {
                         title: "CC at 3.6 kbps (features)",
                         path: "WB_samples/nf_100_fs_32/F1.flac",
                         hide: false
@@ -152,6 +167,11 @@ export const DATA = [
                     {
                         title: "CC at 3.6 kbps (strides only)",
                         path: "WB_samples/nf_50_fs_64/F2.flac",
+                        hide: false
+                    },
+                    {
+                        title: "CC at 3.6 kbps (strides + kernels)",
+                        path: "WB_samples/nf_50_fs_64_v3/F2.flac",
                         hide: false
                     },
                     {
@@ -204,6 +224,11 @@ export const DATA = [
                         hide: false
                     },
                     {
+                        title: "CC at 3.6 kbps (strides + kernels)",
+                        path: "FB_samples/nf_50_fs_64_v3/M1.wav",
+                        hide: false
+                    },
+                    {
                         title: "CC at 3.6 kbps (features)",
                         path: "FB_samples/nf_100_fs_32/M1.wav",
                         hide: false
@@ -243,6 +268,11 @@ export const DATA = [
                     {
                         title: "CC at 3.6 kbps (strides only)",
                         path: "FB_samples/nf_50_fs_64/M2.wav",
+                        hide: false
+                    },
+                    {
+                        title: "CC at 3.6 kbps (strides + kernels)",
+                        path: "FB_samples/nf_50_fs_64_v3/M2.wav",
                         hide: false
                     },
                     {
@@ -288,6 +318,11 @@ export const DATA = [
                         hide: false
                     },
                     {
+                        title: "CC at 3.6 kbps (strides + kernels)",
+                        path: "FB_samples/nf_50_fs_64_v3/F1.wav",
+                        hide: false
+                    },
+                    {
                         title: "CC at 3.6 kbps (features)",
                         path: "FB_samples/nf_100_fs_32/F1.wav",
                         hide: false
@@ -327,6 +362,11 @@ export const DATA = [
                     {
                         title: "CC at 3.6 kbps (strides only)",
                         path: "FB_samples/nf_50_fs_64/F2.wav",
+                        hide: false
+                    },
+                    {
+                        title: "CC at 3.6 kbps (strides + kernels)",
+                        path: "FB_samples/nf_50_fs_64_v3/F2.wav",
                         hide: false
                     },
                     {
