@@ -31,7 +31,7 @@ export const DATA = [
                     {
                         title: "CC at 3.6 kbps (strides + kernels)",
                         path: "WB_samples/nf_50_fs_64_v3/M1.flac",
-                        hide: false
+                        hide: true
                     },
                     {
                         title: "CC at 3.6 kbps (features)",
@@ -78,7 +78,7 @@ export const DATA = [
                     {
                         title: "CC at 3.6 kbps (strides + kernels)",
                         path: "WB_samples/nf_50_fs_64_v3/M2.flac",
-                        hide: false
+                        hide: true
                     },
                     {
                         title: "CC at 3.6 kbps (features)",
@@ -125,7 +125,7 @@ export const DATA = [
                     {
                         title: "CC at 3.6 kbps (strides + kernels)",
                         path: "WB_samples/nf_50_fs_64_v3/F1.flac",
-                        hide: false
+                        hide: true
                     },
                     {
                         title: "CC at 3.6 kbps (features)",
@@ -172,7 +172,7 @@ export const DATA = [
                     {
                         title: "CC at 3.6 kbps (strides + kernels)",
                         path: "WB_samples/nf_50_fs_64_v3/F2.flac",
-                        hide: false
+                        hide: true
                     },
                     {
                         title: "CC at 3.6 kbps (features)",
@@ -226,7 +226,7 @@ export const DATA = [
                     {
                         title: "CC at 3.6 kbps (strides + kernels)",
                         path: "FB_samples/nf_50_fs_64_v3/M1.wav",
-                        hide: false
+                        hide: true
                     },
                     {
                         title: "CC at 3.6 kbps (features)",
@@ -273,7 +273,7 @@ export const DATA = [
                     {
                         title: "CC at 3.6 kbps (strides + kernels)",
                         path: "FB_samples/nf_50_fs_64_v3/M2.wav",
-                        hide: false
+                        hide: true
                     },
                     {
                         title: "CC at 3.6 kbps (features)",
@@ -320,7 +320,7 @@ export const DATA = [
                     {
                         title: "CC at 3.6 kbps (strides + kernels)",
                         path: "FB_samples/nf_50_fs_64_v3/F1.wav",
-                        hide: false
+                        hide: true
                     },
                     {
                         title: "CC at 3.6 kbps (features)",
@@ -367,7 +367,7 @@ export const DATA = [
                     {
                         title: "CC at 3.6 kbps (strides + kernels)",
                         path: "FB_samples/nf_50_fs_64_v3/F2.wav",
-                        hide: false
+                        hide: true
                     },
                     {
                         title: "CC at 3.6 kbps (features)",
@@ -392,7 +392,7 @@ export const DATA = [
     {
         id: 2,
         title: "Fixed weights vs learneable weights",
-        hide: false,
+        hide: true,
         content: [
             {
                 title: "<i class='fas fa-male'></i> <i class='fa-solid fa-1'></i>",
