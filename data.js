@@ -39,17 +39,17 @@ export const DATA = [
                         hide: false
                     },
                     {
-                        title: "exp1_lg = exp1_sm + continue(lg)",
+                        title: "exp1_lg ",
                         path: "WB_samples/nf_50_fs_64_lg_01/M1.flac",
                         hide: false
                     },
                     {
-                        title: "exp2_lg = exp1_lg + continue(lg)",
+                        title: "exp2_lg ",
                         path: "WB_samples/nf_50_fs_64_lg_02/M1.flac",
                         hide: false
                     },
                     {
-                        title: "exp3_lg = exp2_lg + continue(lg)",
+                        title: "exp3_lg ",
                         path: "WB_samples/nf_50_fs_64_lg_03/M1.flac",
                         hide: false
                     },
@@ -66,17 +66,17 @@ export const DATA = [
                         hide: false
                     },
                     {
-                        title: "exp1_lg = exp1_sm + continue(lg)",
+                        title: "exp1_lg ",
                         path: "WB_samples/nf_100_fs_32_lg_01/M1.flac",
                         hide: false
                     },
                     {
-                        title: "exp2_lg = exp1_lg + continue(lg)",
+                        title: "exp2_lg ",
                         path: "WB_samples/nf_100_fs_32_lg_02/M1.flac",
                         hide: false
                     },
                     {
-                        title: "exp3_lg = exp2_lg + continue(lg)",
+                        title: "exp3_lg ",
                         path: "WB_samples/nf_100_fs_32_lg_03/M1.flac",
                         hide: false
                     },
@@ -110,17 +110,17 @@ export const DATA = [
                         hide: false
                     },
                     {
-                        title: "exp1_lg = exp1_sm + continue(lg)",
+                        title: "exp1_lg ",
                         path: "WB_samples/nf_50_fs_64_lg_01/M2.flac",
                         hide: false
                     },
                     {
-                        title: "exp2_lg = exp1_lg + continue(lg)",
+                        title: "exp2_lg ",
                         path: "WB_samples/nf_50_fs_64_lg_02/M2.flac",
                         hide: false
                     },
                     {
-                        title: "exp3_lg = exp2_lg + continue(lg)",
+                        title: "exp3_lg ",
                         path: "WB_samples/nf_50_fs_64_lg_03/M2.flac",
                         hide: false
                     },
@@ -137,17 +137,17 @@ export const DATA = [
                         hide: false
                     },
                     {
-                        title: "exp1_lg = exp1_sm + continue(lg)",
+                        title: "exp1_lg ",
                         path: "WB_samples/nf_100_fs_32_lg_01/M2.flac",
                         hide: false
                     },
                     {
-                        title: "exp2_lg = exp1_lg + continue(lg)",
+                        title: "exp2_lg ",
                         path: "WB_samples/nf_100_fs_32_lg_02/M2.flac",
                         hide: false
                     },
                     {
-                        title: "exp3_lg = exp2_lg + continue(lg)",
+                        title: "exp3_lg ",
                         path: "WB_samples/nf_100_fs_32_lg_03/M2.flac",
                         hide: false
                     },
@@ -181,17 +181,17 @@ export const DATA = [
                         hide: false
                     },
                     {
-                        title: "exp1_lg = exp1_sm + continue(lg)",
+                        title: "exp1_lg ",
                         path: "WB_samples/nf_50_fs_64_lg_01/F1.flac",
                         hide: false
                     },
                     {
-                        title: "exp2_lg = exp1_lg + continue(lg)",
+                        title: "exp2_lg ",
                         path: "WB_samples/nf_50_fs_64_lg_02/F1.flac",
                         hide: false
                     },
                     {
-                        title: "exp3_lg = exp2_lg + continue(lg)",
+                        title: "exp3_lg ",
                         path: "WB_samples/nf_50_fs_64_lg_03/F1.flac",
                         hide: false
                     },
@@ -208,17 +208,17 @@ export const DATA = [
                         hide: false
                     },
                     {
-                        title: "exp1_lg = exp1_sm + continue(lg)",
+                        title: "exp1_lg ",
                         path: "WB_samples/nf_100_fs_32_lg_01/F1.flac",
                         hide: false
                     },
                     {
-                        title: "exp2_lg = exp1_lg + continue(lg)",
+                        title: "exp2_lg ",
                         path: "WB_samples/nf_100_fs_32_lg_02/F1.flac",
                         hide: false
                     },
                     {
-                        title: "exp3_lg = exp2_lg + continue(lg)",
+                        title: "exp3_lg ",
                         path: "WB_samples/nf_100_fs_32_lg_03/F1.flac",
                         hide: false
                     },
@@ -252,17 +252,17 @@ export const DATA = [
                         hide: false
                     },
                     {
-                        title: "exp1_lg = exp1_sm + continue(lg)",
+                        title: "exp1_lg ",
                         path: "WB_samples/nf_50_fs_64_lg_01/F2.flac",
                         hide: false
                     },
                     {
-                        title: "exp2_lg = exp1_lg + continue(lg)",
+                        title: "exp2_lg ",
                         path: "WB_samples/nf_50_fs_64_lg_02/F2.flac",
                         hide: false
                     },
                     {
-                        title: "exp3_lg = exp2_lg + continue(lg)",
+                        title: "exp3_lg ",
                         path: "WB_samples/nf_50_fs_64_lg_03/F2.flac",
                         hide: false
                     },
@@ -279,17 +279,17 @@ export const DATA = [
                         hide: false
                     },
                     {
-                        title: "exp1_lg = exp1_sm + continue(lg)",
+                        title: "exp1_lg ",
                         path: "WB_samples/nf_100_fs_32_lg_01/F2.flac",
                         hide: false
                     },
                     {
-                        title: "exp2_lg = exp1_lg + continue(lg)",
+                        title: "exp2_lg ",
                         path: "WB_samples/nf_100_fs_32_lg_02/F2.flac",
                         hide: false
                     },
                     {
-                        title: "exp3_lg = exp2_lg + continue(lg)",
+                        title: "exp3_lg ",
                         path: "WB_samples/nf_100_fs_32_lg_03/F2.flac",
                         hide: false
                     },
