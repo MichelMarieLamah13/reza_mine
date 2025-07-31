@@ -16,6 +16,10 @@ body {
     min-width: 300px;
 }
 
+b{
+    font-weight: bold;
+}
+
 h1, h2, h3, h4 {
     font-family: "Open Sans", sans-serif;
     color: rgb(36, 41, 46);
