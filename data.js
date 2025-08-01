@@ -302,6 +302,8 @@ export const DATA = [
         title: "Modifying Loss: weighting mel band (exp5)",
         hide: false,
         description: [
+            "<b>exp3_lg</b> the baseline see <a href='#section-1'>features vs frames</a>.",
+            "<b>exp4_lg</b> is obtained by continuing the training of <b>exp3_lg</b>.",
             "<b>exp5_lg</b> is obtained by continuing the training of <b>exp3_lg</b> by adding to the baseline a <b>weighted mel spectrogram</b>.",
             "Go to <a href='#section-0'>Menu</a>"
         ],
