@@ -6,9 +6,9 @@ export const DATA = [
             "To achieve a bitrate of 3.6 kbps by reducing the features, we halve the number of features used in the 7.2 kbps model—using 32 features instead of 64 at each level of the codec.",
             "Alternatively, to reach the same 3.6 kbps bitrate by reducing the number of frames, we also halve the number of frames at each level: from 100 to 50 frames at the lower level, and from 12.5 to 6.25 frames at the upper level.",
             "<b>exp1_sm</b> is the model trained on a reduced, balanced dataset derived from LibriSpeech-100, which contains an equal number of audio samples for each speaker",
-            "<b>exp1_lg</b> is obtained by continuing the training of exp1_sm on the full LibriSpeech-100 dataset",
-            "<b>exp2_lg</b> is obtained by further training exp1_lg on the full LibriSpeech-100 dataset",
-            "<b>exp3_lg</b> is obtained by continuing the training of exp2_lg, again using the full LibriSpeech-100 dataset",
+            "<b>exp1_lg</b> is obtained by continuing the training of <b>exp1_sm</b> on the full LibriSpeech-100 dataset",
+            "<b>exp2_lg</b> is obtained by further training <b>exp1_lg</b> on the full LibriSpeech-100 dataset",
+            "<b>exp3_lg</b> is obtained by continuing the training of <b>exp2_lg</b>, again using the full LibriSpeech-100 dataset",
             "Go to <a href='#section-0'>Menu</a>"
         ],
         content: [
@@ -470,6 +470,8 @@ export const DATA = [
         title: "Modifying Loss: weighting mel band (exp6)",
         hide: false,
         description: [
+            "<b>exp3_lg</b> the baseline see <a href='#section-1'>features vs frames</a>.",
+            "<b>exp4_lg</b> is obtained by continuing the training of <b>exp3_lg</b>.",
             "<b>exp6_lg</b> is obtained by continuing the training of <b>exp3_lg</b> by adding to the baseline a <b>weighted mel spectrogram loss</b> and a <b>weighted multi-scale spectrogram loss</b>.",
             "Go to <a href='#section-0'>Menu</a>"
         ],
@@ -636,6 +638,8 @@ export const DATA = [
         title: "Modifying Loss: weighting mel band (exp7)",
         hide: false,
         description: [
+            "<b>exp3_lg</b> the baseline see <a href='#section-1'>features vs frames</a>.",
+            "<b>exp4_lg</b> is obtained by continuing the training of <b>exp3_lg</b>.",
             "<b>exp7_lg</b> is obtained by continuing the training of <b>exp3_lg</b> by adding to the baseline a <b>weighted mel spectrogram</b> and a <b>waveform loss</b>.",
             "Go to <a href='#section-0'>Menu</a>"
         ],
@@ -802,6 +806,8 @@ export const DATA = [
         title: "Modifying Loss: weighting mel band (exp8)",
         hide: false,
         description: [
+            "<b>exp3_lg</b> the baseline see <a href='#section-1'>features vs frames</a>.",
+            "<b>exp4_lg</b> is obtained by continuing the training of <b>exp3_lg</b>.",
             "<b>exp8_lg</b> is obtained by continuing the training of <b>exp3_lg</b> by adding to the baseline a <b>weighted mel spectrogram loss</b> and a <b>multi-scale stfd discriminator</b>.",
             "Go to <a href='#section-0'>Menu</a>"
         ],
@@ -968,6 +974,8 @@ export const DATA = [
         title: "Modifying Loss: weighting mel band (exp9)",
         hide: false,
         description: [
+            "<b>exp3_lg</b> the baseline see <a href='#section-1'>features vs frames</a>.",
+            "<b>exp4_lg</b> is obtained by continuing the training of <b>exp3_lg</b>.",
             "<b>exp9_lg</b> is obtained by continuing the training of <b>exp3_lg</b> by adding to the baseline a <b>weighted mel spectrogram loss</b> and a <b>multi-resolution discriminator</b>.",
             "Go to <a href='#section-0'>Menu</a>"
         ],
@@ -1134,6 +1142,8 @@ export const DATA = [
         title: "Modifying Loss: weighting mel band (exp10)",
         hide: false,
         description: [
+            "<b>exp3_lg</b> the baseline see <a href='#section-1'>features vs frames</a>.",
+            "<b>exp4_lg</b> is obtained by continuing the training of <b>exp3_lg</b>.",
             "<b>exp10_lg</b> is obtained by continuing the training of <b>exp3_lg</b> by adding to the baseline a <b>weighted mel spectrogram loss</b> and both <b>multi-resolution</b> and <b>multi-scale stfd</b> discriminators.",
             "Go to <a href='#section-0'>Menu</a>"
         ],
@@ -1300,6 +1310,8 @@ export const DATA = [
         title: "Modifying Loss: weighting mel band (exp11)",
         hide: false,
         description: [
+            "<b>exp3_lg</b> the baseline see <a href='#section-1'>features vs frames</a>.",
+            "<b>exp4_lg</b> is obtained by continuing the training of <b>exp3_lg</b>.",
             "<b>exp11_lg</b> is obtained by continuing the training of <b>exp3_lg</b> by adding to the baseline a <b>weighted mel spectrogram loss</b>, a <b>multi-scale spectrogram loss</b> and a <b>waveform loss</b>.",
             "Go to <a href='#section-0'>Menu</a>"
         ],
@@ -1466,6 +1478,8 @@ export const DATA = [
         title: "Modifying Loss: weighting mel band (exp12)",
         hide: false,
         description: [
+            "<b>exp3_lg</b> the baseline see <a href='#section-1'>features vs frames</a>.",
+            "<b>exp4_lg</b> is obtained by continuing the training of <b>exp3_lg</b>.",
             "<b>exp12_lg</b> is obtained by continuing the training of <b>exp3_lg</b> by adding to the baseline a <b>weighted mel spectrogram loss</b>, a <b>multi-scale spectrogram loss</b>, a <b>waveform loss</b> and a <b>multi-scale stfd discriminator</b>.",
             "Go to <a href='#section-0'>Menu</a>"
         ],
@@ -1632,6 +1646,8 @@ export const DATA = [
         title: "Modifying Loss: weighting mel band (exp13)",
         hide: false,
         description: [
+            "<b>exp3_lg</b> the baseline see <a href='#section-1'>features vs frames</a>.",
+            "<b>exp4_lg</b> is obtained by continuing the training of <b>exp3_lg</b>.",
             "<b>exp13_lg</b> is obtained by continuing the training of <b>exp3_lg</b> by adding to the baseline a <b>weighted mel spectrogram loss</b>, a <b>multi-scale spectrogram loss</b>, a <b>waveform loss</b> and a <b>multi-resolution discriminator</b>.",
             "Go to <a href='#section-0'>Menu</a>"
         ],
@@ -1798,6 +1814,8 @@ export const DATA = [
         title: "Modifying Loss: weighting mel band (exp14)",
         hide: false,
         description: [
+            "<b>exp3_lg</b> the baseline see <a href='#section-1'>features vs frames</a>.",
+            "<b>exp4_lg</b> is obtained by continuing the training of <b>exp3_lg</b>.",
             "<b>exp14_lg</b> is obtained by continuing the training of <b>exp3_lg</b> by adding to the baseline a <b>weighted mel spectrogram loss</b>, a <b>multi-scale spectrogram loss</b>, a <b>waveform loss</b> and both <b>multi-resolution</b> and <b>multi-scale stfd</b> discriminators.",
             "Go to <a href='#section-0'>Menu</a>"
         ],
