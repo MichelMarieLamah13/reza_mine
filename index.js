@@ -45,7 +45,13 @@ function add_section(data) {
             const h3 = document.createElement("h3")
             h3.innerHTML = d.title
             section.appendChild(h3)
-
+            if (d.transcription){
+                const p = document.createElement("p")
+                p.innerHTML = `
+                        <p> <b>Transcription</b>:  ${d.transcription}</p>
+                    `
+                section.appendChild(p)
+            }
             const divs = document.createElement("div")
             divs.className = "playlist"
             d.content.forEach(c => {

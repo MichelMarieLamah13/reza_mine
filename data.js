@@ -14,6 +14,7 @@ export const DATA = [
         content: [
             {
                 title: "<i class='fas fa-male'></i> M1</i>: Original",
+                transcription: "Slide the box into that empty space. The plant grew large and green in the window.",
                 hide: false,
                 content: [
                     {
@@ -85,6 +86,7 @@ export const DATA = [
             },
             {
                 title: "<i class='fas fa-male'></i> M2</i>: Original",
+                transcription: "He broke a new shoelace that day. The coffee stand is too high for the couch.",
                 hide: false,
                 content: [
                     {
@@ -156,6 +158,7 @@ export const DATA = [
             },
             {
                 title: "<i class='fas fa-female'></i> F1</i>: Original",
+                transcription: "The idea is to show both are just straight. The kitten chased the dog down the street.",
                 hide: false,
                 content: [
                     {
@@ -227,6 +230,7 @@ export const DATA = [
             },
             {
                 title: "<i class='fas fa-female'></i> F2</i>: Original",
+                transcription: "The stray cat gave birth to kittens. The young girl gave no clear response.",
                 hide: false,
                 content: [
                     {
@@ -309,7 +313,8 @@ export const DATA = [
         ],
         content: [
             {
-                title: "<i class='fas fa-male'></i> M1</i>: Original",
+               title: "<i class='fas fa-male'></i> M1</i>: Original",
+                transcription: "Slide the box into that empty space. The plant grew large and green in the window.",
                 hide: false,
                 content: [
                     {
@@ -349,6 +354,7 @@ export const DATA = [
             },
             {
                 title: "<i class='fas fa-male'></i> M2</i>: Original",
+                transcription: "He broke a new shoelace that day. The coffee stand is too high for the couch.",
                 hide: false,
                 content: [
                     {
@@ -388,6 +394,7 @@ export const DATA = [
             },
             {
                 title: "<i class='fas fa-female'></i> F1</i>: Original",
+                transcription: "The idea is to show both are just straight. The kitten chased the dog down the street.",
                 hide: false,
                 content: [
                     {
@@ -427,6 +434,7 @@ export const DATA = [
             },
             {
                 title: "<i class='fas fa-female'></i> F2</i>: Original",
+                transcription: "The stray cat gave birth to kittens. The young girl gave no clear response.",
                 hide: false,
                 content: [
                     {
@@ -477,7 +485,8 @@ export const DATA = [
         ],
         content: [
             {
-                title: "<i class='fas fa-male'></i> M1</i>: Original",
+               title: "<i class='fas fa-male'></i> M1</i>: Original",
+                transcription: "Slide the box into that empty space. The plant grew large and green in the window.",
                 hide: false,
                 content: [
                     {
@@ -517,6 +526,7 @@ export const DATA = [
             },
             {
                 title: "<i class='fas fa-male'></i> M2</i>: Original",
+                transcription: "He broke a new shoelace that day. The coffee stand is too high for the couch.",
                 hide: false,
                 content: [
                     {
@@ -556,6 +566,7 @@ export const DATA = [
             },
             {
                 title: "<i class='fas fa-female'></i> F1</i>: Original",
+                transcription: "The idea is to show both are just straight. The kitten chased the dog down the street.",
                 hide: false,
                 content: [
                     {
@@ -595,6 +606,7 @@ export const DATA = [
             },
             {
                 title: "<i class='fas fa-female'></i> F2</i>: Original",
+                transcription: "The stray cat gave birth to kittens. The young girl gave no clear response.",
                 hide: false,
                 content: [
                     {
@@ -645,7 +657,8 @@ export const DATA = [
         ],
         content: [
             {
-                title: "<i class='fas fa-male'></i> M1</i>: Original",
+               title: "<i class='fas fa-male'></i> M1</i>: Original",
+                transcription: "Slide the box into that empty space. The plant grew large and green in the window.",
                 hide: false,
                 content: [
                     {
@@ -685,6 +698,7 @@ export const DATA = [
             },
             {
                 title: "<i class='fas fa-male'></i> M2</i>: Original",
+                transcription: "He broke a new shoelace that day. The coffee stand is too high for the couch.",
                 hide: false,
                 content: [
                     {
@@ -724,6 +738,7 @@ export const DATA = [
             },
             {
                 title: "<i class='fas fa-female'></i> F1</i>: Original",
+                transcription: "The idea is to show both are just straight. The kitten chased the dog down the street.",
                 hide: false,
                 content: [
                     {
@@ -763,6 +778,7 @@ export const DATA = [
             },
             {
                 title: "<i class='fas fa-female'></i> F2</i>: Original",
+                transcription: "The stray cat gave birth to kittens. The young girl gave no clear response.",
                 hide: false,
                 content: [
                     {
@@ -813,7 +829,8 @@ export const DATA = [
         ],
         content: [
             {
-                title: "<i class='fas fa-male'></i> M1</i>: Original",
+               title: "<i class='fas fa-male'></i> M1</i>: Original",
+                transcription: "Slide the box into that empty space. The plant grew large and green in the window.",
                 hide: false,
                 content: [
                     {
@@ -853,6 +870,7 @@ export const DATA = [
             },
             {
                 title: "<i class='fas fa-male'></i> M2</i>: Original",
+                transcription: "He broke a new shoelace that day. The coffee stand is too high for the couch.",
                 hide: false,
                 content: [
                     {
@@ -892,6 +910,7 @@ export const DATA = [
             },
             {
                 title: "<i class='fas fa-female'></i> F1</i>: Original",
+                transcription: "The idea is to show both are just straight. The kitten chased the dog down the street.",
                 hide: false,
                 content: [
                     {
@@ -931,6 +950,7 @@ export const DATA = [
             },
             {
                 title: "<i class='fas fa-female'></i> F2</i>: Original",
+                transcription: "The stray cat gave birth to kittens. The young girl gave no clear response.",
                 hide: false,
                 content: [
                     {
@@ -981,7 +1001,8 @@ export const DATA = [
         ],
         content: [
             {
-                title: "<i class='fas fa-male'></i> M1</i>: Original",
+               title: "<i class='fas fa-male'></i> M1</i>: Original",
+                transcription: "Slide the box into that empty space. The plant grew large and green in the window.",
                 hide: false,
                 content: [
                     {
@@ -1021,6 +1042,7 @@ export const DATA = [
             },
             {
                 title: "<i class='fas fa-male'></i> M2</i>: Original",
+                transcription: "He broke a new shoelace that day. The coffee stand is too high for the couch.",
                 hide: false,
                 content: [
                     {
@@ -1060,6 +1082,7 @@ export const DATA = [
             },
             {
                 title: "<i class='fas fa-female'></i> F1</i>: Original",
+                transcription: "The idea is to show both are just straight. The kitten chased the dog down the street.",
                 hide: false,
                 content: [
                     {
@@ -1099,6 +1122,7 @@ export const DATA = [
             },
             {
                 title: "<i class='fas fa-female'></i> F2</i>: Original",
+                transcription: "The stray cat gave birth to kittens. The young girl gave no clear response.",
                 hide: false,
                 content: [
                     {
@@ -1149,7 +1173,8 @@ export const DATA = [
         ],
         content: [
             {
-                title: "<i class='fas fa-male'></i> M1</i>: Original",
+               title: "<i class='fas fa-male'></i> M1</i>: Original",
+                transcription: "Slide the box into that empty space. The plant grew large and green in the window.",
                 hide: false,
                 content: [
                     {
@@ -1189,6 +1214,7 @@ export const DATA = [
             },
             {
                 title: "<i class='fas fa-male'></i> M2</i>: Original",
+                transcription: "He broke a new shoelace that day. The coffee stand is too high for the couch.",
                 hide: false,
                 content: [
                     {
@@ -1228,6 +1254,7 @@ export const DATA = [
             },
             {
                 title: "<i class='fas fa-female'></i> F1</i>: Original",
+                transcription: "The idea is to show both are just straight. The kitten chased the dog down the street.",
                 hide: false,
                 content: [
                     {
@@ -1267,6 +1294,7 @@ export const DATA = [
             },
             {
                 title: "<i class='fas fa-female'></i> F2</i>: Original",
+                transcription: "The stray cat gave birth to kittens. The young girl gave no clear response.",
                 hide: false,
                 content: [
                     {
@@ -1317,7 +1345,8 @@ export const DATA = [
         ],
         content: [
             {
-                title: "<i class='fas fa-male'></i> M1</i>: Original",
+               title: "<i class='fas fa-male'></i> M1</i>: Original",
+                transcription: "Slide the box into that empty space. The plant grew large and green in the window.",
                 hide: false,
                 content: [
                     {
@@ -1357,6 +1386,7 @@ export const DATA = [
             },
             {
                 title: "<i class='fas fa-male'></i> M2</i>: Original",
+                transcription: "He broke a new shoelace that day. The coffee stand is too high for the couch.",
                 hide: false,
                 content: [
                     {
@@ -1396,6 +1426,7 @@ export const DATA = [
             },
             {
                 title: "<i class='fas fa-female'></i> F1</i>: Original",
+                transcription: "The idea is to show both are just straight. The kitten chased the dog down the street.",
                 hide: false,
                 content: [
                     {
@@ -1435,6 +1466,7 @@ export const DATA = [
             },
             {
                 title: "<i class='fas fa-female'></i> F2</i>: Original",
+                transcription: "The stray cat gave birth to kittens. The young girl gave no clear response.",
                 hide: false,
                 content: [
                     {
@@ -1485,7 +1517,8 @@ export const DATA = [
         ],
         content: [
             {
-                title: "<i class='fas fa-male'></i> M1</i>: Original",
+               title: "<i class='fas fa-male'></i> M1</i>: Original",
+                transcription: "Slide the box into that empty space. The plant grew large and green in the window.",
                 hide: false,
                 content: [
                     {
@@ -1525,6 +1558,7 @@ export const DATA = [
             },
             {
                 title: "<i class='fas fa-male'></i> M2</i>: Original",
+                transcription: "He broke a new shoelace that day. The coffee stand is too high for the couch.",
                 hide: false,
                 content: [
                     {
@@ -1564,6 +1598,7 @@ export const DATA = [
             },
             {
                 title: "<i class='fas fa-female'></i> F1</i>: Original",
+                transcription: "The idea is to show both are just straight. The kitten chased the dog down the street.",
                 hide: false,
                 content: [
                     {
@@ -1603,6 +1638,7 @@ export const DATA = [
             },
             {
                 title: "<i class='fas fa-female'></i> F2</i>: Original",
+                transcription: "The stray cat gave birth to kittens. The young girl gave no clear response.",
                 hide: false,
                 content: [
                     {
@@ -1653,7 +1689,8 @@ export const DATA = [
         ],
         content: [
             {
-                title: "<i class='fas fa-male'></i> M1</i>: Original",
+               title: "<i class='fas fa-male'></i> M1</i>: Original",
+                transcription: "Slide the box into that empty space. The plant grew large and green in the window.",
                 hide: false,
                 content: [
                     {
@@ -1693,6 +1730,7 @@ export const DATA = [
             },
             {
                 title: "<i class='fas fa-male'></i> M2</i>: Original",
+                transcription: "He broke a new shoelace that day. The coffee stand is too high for the couch.",
                 hide: false,
                 content: [
                     {
@@ -1732,6 +1770,7 @@ export const DATA = [
             },
             {
                 title: "<i class='fas fa-female'></i> F1</i>: Original",
+                transcription: "The idea is to show both are just straight. The kitten chased the dog down the street.",
                 hide: false,
                 content: [
                     {
@@ -1771,6 +1810,7 @@ export const DATA = [
             },
             {
                 title: "<i class='fas fa-female'></i> F2</i>: Original",
+                transcription: "The stray cat gave birth to kittens. The young girl gave no clear response.",
                 hide: false,
                 content: [
                     {
@@ -1821,7 +1861,8 @@ export const DATA = [
         ],
         content: [
             {
-                title: "<i class='fas fa-male'></i> M1</i>: Original",
+               title: "<i class='fas fa-male'></i> M1</i>: Original",
+                transcription: "Slide the box into that empty space. The plant grew large and green in the window.",
                 hide: false,
                 content: [
                     {
@@ -1861,6 +1902,7 @@ export const DATA = [
             },
             {
                 title: "<i class='fas fa-male'></i> M2</i>: Original",
+                transcription: "He broke a new shoelace that day. The coffee stand is too high for the couch.",
                 hide: false,
                 content: [
                     {
@@ -1900,6 +1942,7 @@ export const DATA = [
             },
             {
                 title: "<i class='fas fa-female'></i> F1</i>: Original",
+                transcription: "The idea is to show both are just straight. The kitten chased the dog down the street.",
                 hide: false,
                 content: [
                     {
@@ -1939,6 +1982,7 @@ export const DATA = [
             },
             {
                 title: "<i class='fas fa-female'></i> F2</i>: Original",
+                transcription: "The stray cat gave birth to kittens. The young girl gave no clear response.",
                 hide: false,
                 content: [
                     {
