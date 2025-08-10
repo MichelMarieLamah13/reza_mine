@@ -13,288 +13,288 @@ export const DATA = [
         ],
         content: [
             {
-                title: "<i class='fas fa-male'></i> M1</i>: Original",
+                title: "<i class='fas fa-male'></i> M1: Original",
                 transcription: "Slide the box into that empty space. The plant grew large and green in the window.",
                 hide: false,
                 content: [
                     {
                         title: "Original input",
-                        path: "WB_samples/original/M1.flac",
+                        path: "WB_samples/original/M1_orig.flac",
                         hide: false
                     },
                     {
                         title: "7.2 kbps (original)",
-                        path: "WB_samples/CC_8000/M1.flac",
+                        path: "WB_samples/CC_7200/M1_cc_7200_orig.flac",
                         hide: false
                     },
 
                 ]
             },
             {
-                title: "<i class='fas fa-male'></i> M1: Reducing frames</i>",
+                title: "<i class='fas fa-male'></i> M1: Reducing frames",
                 hide: false,
                 content: [
                     {
                         title: "exp1_sm = 3.6 kbps",
-                        path: "WB_samples/nf_50_fs_64_sm_01/M1.flac",
+                        path: "WB_samples/nf_50_fs_64_sm_01/M1_cc_3600_fr_sm_01.flac",
                         hide: false
                     },
                     {
                         title: "exp1_lg ",
-                        path: "WB_samples/nf_50_fs_64_lg_01/M1.flac",
+                        path: "WB_samples/nf_50_fs_64_lg_01/M1_cc_3600_fr_lg_01.flac",
                         hide: false
                     },
                     {
                         title: "exp2_lg ",
-                        path: "WB_samples/nf_50_fs_64_lg_02/M1.flac",
+                        path: "WB_samples/nf_50_fs_64_lg_02/M1_cc_3600_fr_lg_02.flac",
                         hide: false
                     },
                     {
                         title: "exp3_lg ",
-                        path: "WB_samples/nf_50_fs_64_lg_03/M1.flac",
+                        path: "WB_samples/nf_50_fs_64_lg_03/M1_cc_3600_fr_lg_03.flac",
                         hide: false
                     },
 
                 ]
             },
             {
-                title: "<i class='fas fa-male'></i> M1: Reducing features</i>",
+                title: "<i class='fas fa-male'></i> M1: Reducing features",
                 hide: false,
                 content: [
                     {
                         title: "exp1_sm = 3.6 kbps",
-                        path: "WB_samples/nf_100_fs_32_sm_01/M1.flac",
+                        path: "WB_samples/nf_100_fs_32_sm_01/M1_cc_3600_ft_sm_01.flac",
                         hide: false
                     },
                     {
                         title: "exp1_lg ",
-                        path: "WB_samples/nf_100_fs_32_lg_01/M1.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_01/M1_cc_3600_ft_lg_01.flac",
                         hide: false
                     },
                     {
                         title: "exp2_lg ",
-                        path: "WB_samples/nf_100_fs_32_lg_02/M1.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_02/M1_cc_3600_ft_lg_02.flac",
                         hide: false
                     },
                     {
                         title: "exp3_lg ",
-                        path: "WB_samples/nf_100_fs_32_lg_03/M1.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_03/M1_cc_3600_ft_lg_03.flac",
                         hide: false
                     },
 
                 ]
             },
             {
-                title: "<i class='fas fa-male'></i> M2</i>: Original",
+                title: "<i class='fas fa-male'></i> M2: Original",
                 transcription: "He broke a new shoelace that day. The coffee stand is too high for the couch.",
                 hide: false,
                 content: [
                     {
                         title: "Original input",
-                        path: "WB_samples/original/M2.flac",
+                        path: "WB_samples/original/M2_orig.flac",
                         hide: false
                     },
                     {
                         title: "7.2 kbps (original)",
-                        path: "WB_samples/CC_8000/M2.flac",
+                        path: "WB_samples/CC_7200/M2_cc_7200_orig.flac",
                         hide: false
                     },
 
                 ]
             },
             {
-                title: "<i class='fas fa-male'></i> M2: Reducing frames</i>",
+                title: "<i class='fas fa-male'></i> M2: Reducing frames",
                 hide: false,
                 content: [
                     {
                         title: "exp1_sm = 3.6 kbps",
-                        path: "WB_samples/nf_50_fs_64_sm_01/M2.flac",
+                        path: "WB_samples/nf_50_fs_64_sm_01/M2_cc_3600_fr_sm_01.flac",
                         hide: false
                     },
                     {
                         title: "exp1_lg ",
-                        path: "WB_samples/nf_50_fs_64_lg_01/M2.flac",
+                        path: "WB_samples/nf_50_fs_64_lg_01/M2_cc_3600_fr_lg_01.flac",
                         hide: false
                     },
                     {
                         title: "exp2_lg ",
-                        path: "WB_samples/nf_50_fs_64_lg_02/M2.flac",
+                        path: "WB_samples/nf_50_fs_64_lg_02/M2_cc_3600_fr_lg_02.flac",
                         hide: false
                     },
                     {
                         title: "exp3_lg ",
-                        path: "WB_samples/nf_50_fs_64_lg_03/M2.flac",
+                        path: "WB_samples/nf_50_fs_64_lg_03/M2_cc_3600_fr_lg_03.flac",
                         hide: false
                     },
 
                 ]
             },
             {
-                title: "<i class='fas fa-male'></i> M2: Reducing features</i>",
+                title: "<i class='fas fa-male'></i> M2: Reducing features",
                 hide: false,
                 content: [
                     {
                         title: "exp1_sm = 3.6 kbps",
-                        path: "WB_samples/nf_100_fs_32_sm_01/M2.flac",
+                        path: "WB_samples/nf_100_fs_32_sm_01/M2_cc_3600_ft_sm_01.flac",
                         hide: false
                     },
                     {
                         title: "exp1_lg ",
-                        path: "WB_samples/nf_100_fs_32_lg_01/M2.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_01/M2_cc_3600_ft_lg_01.flac",
                         hide: false
                     },
                     {
                         title: "exp2_lg ",
-                        path: "WB_samples/nf_100_fs_32_lg_02/M2.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_02/M2_cc_3600_ft_lg_02.flac",
                         hide: false
                     },
                     {
                         title: "exp3_lg ",
-                        path: "WB_samples/nf_100_fs_32_lg_03/M2.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_03/M2_cc_3600_ft_lg_03.flac",
                         hide: false
                     },
 
                 ]
             },
             {
-                title: "<i class='fas fa-female'></i> F1</i>: Original",
+                title: "<i class='fas fa-female'></i> F1: Original",
                 transcription: "The idea is to show both are just straight. The kitten chased the dog down the street.",
                 hide: false,
                 content: [
                     {
                         title: "Original input",
-                        path: "WB_samples/original/F1.flac",
+                        path: "WB_samples/original/F1_orig.flac",
                         hide: false
                     },
                     {
                         title: "7.2 kbps (original)",
-                        path: "WB_samples/CC_8000/F1.flac",
+                        path: "WB_samples/CC_7200/F1_cc_7200_orig.flac",
                         hide: false
                     },
 
                 ]
             },
             {
-                title: "<i class='fas fa-female'></i> F1: Reducing frames</i>",
+                title: "<i class='fas fa-female'></i> F1: Reducing frames",
                 hide: false,
                 content: [
                     {
                         title: "exp1_sm = 3.6 kbps",
-                        path: "WB_samples/nf_50_fs_64_sm_01/F1.flac",
+                        path: "WB_samples/nf_50_fs_64_sm_01/F1_cc_3600_fr_sm_01.flac",
                         hide: false
                     },
                     {
                         title: "exp1_lg ",
-                        path: "WB_samples/nf_50_fs_64_lg_01/F1.flac",
+                        path: "WB_samples/nf_50_fs_64_lg_01/F1_cc_3600_fr_lg_01.flac",
                         hide: false
                     },
                     {
                         title: "exp2_lg ",
-                        path: "WB_samples/nf_50_fs_64_lg_02/F1.flac",
+                        path: "WB_samples/nf_50_fs_64_lg_02/F1_cc_3600_fr_lg_02.flac",
                         hide: false
                     },
                     {
                         title: "exp3_lg ",
-                        path: "WB_samples/nf_50_fs_64_lg_03/F1.flac",
+                        path: "WB_samples/nf_50_fs_64_lg_03/F1_cc_3600_fr_lg_03.flac",
                         hide: false
                     },
 
                 ]
             },
             {
-                title: "<i class='fas fa-female'></i> F1: Reducing features</i>",
+                title: "<i class='fas fa-female'></i> F1: Reducing features",
                 hide: false,
                 content: [
                     {
                         title: "exp1_sm = 3.6 kbps",
-                        path: "WB_samples/nf_100_fs_32_sm_01/F1.flac",
+                        path: "WB_samples/nf_100_fs_32_sm_01/F1_cc_3600_ft_sm_01.flac",
                         hide: false
                     },
                     {
                         title: "exp1_lg ",
-                        path: "WB_samples/nf_100_fs_32_lg_01/F1.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_01/F1_cc_3600_ft_lg_01.flac",
                         hide: false
                     },
                     {
                         title: "exp2_lg ",
-                        path: "WB_samples/nf_100_fs_32_lg_02/F1.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_02/F1_cc_3600_ft_lg_02.flac",
                         hide: false
                     },
                     {
                         title: "exp3_lg ",
-                        path: "WB_samples/nf_100_fs_32_lg_03/F1.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_03/F1_cc_3600_ft_lg_03.flac",
                         hide: false
                     },
 
                 ]
             },
             {
-                title: "<i class='fas fa-female'></i> F2</i>: Original",
+                title: "<i class='fas fa-female'></i> F2: Original",
                 transcription: "The stray cat gave birth to kittens. The young girl gave no clear response.",
                 hide: false,
                 content: [
                     {
                         title: "Original input",
-                        path: "WB_samples/original/F2.flac",
+                        path: "WB_samples/original/F2_orig.flac",
                         hide: false
                     },
                     {
                         title: "7.2 kbps (original)",
-                        path: "WB_samples/CC_8000/F2.flac",
+                        path: "WB_samples/CC_7200/F2_cc_7200_orig.flac",
                         hide: false
                     },
 
                 ]
             },
             {
-                title: "<i class='fas fa-female'></i> F2: Reducing frames</i>",
+                title: "<i class='fas fa-female'></i> F2: Reducing frames",
                 hide: false,
                 content: [
                     {
                         title: "exp1_sm = 3.6 kbps",
-                        path: "WB_samples/nf_50_fs_64_sm_01/F2.flac",
+                        path: "WB_samples/nf_50_fs_64_sm_01/F2_cc_3600_fr_sm_01.flac",
                         hide: false
                     },
                     {
                         title: "exp1_lg ",
-                        path: "WB_samples/nf_50_fs_64_lg_01/F2.flac",
+                        path: "WB_samples/nf_50_fs_64_lg_01/F2_cc_3600_fr_lg_01.flac",
                         hide: false
                     },
                     {
                         title: "exp2_lg ",
-                        path: "WB_samples/nf_50_fs_64_lg_02/F2.flac",
+                        path: "WB_samples/nf_50_fs_64_lg_02/F2_cc_3600_fr_lg_02.flac",
                         hide: false
                     },
                     {
                         title: "exp3_lg ",
-                        path: "WB_samples/nf_50_fs_64_lg_03/F2.flac",
+                        path: "WB_samples/nf_50_fs_64_lg_03/F2_cc_3600_fr_lg_03.flac",
                         hide: false
                     },
 
                 ]
             },
             {
-                title: "<i class='fas fa-female'></i> F2: Reducing features</i>",
+                title: "<i class='fas fa-female'></i> F2: Reducing features",
                 hide: false,
                 content: [
                     {
                         title: "exp1_sm = 3.6 kbps",
-                        path: "WB_samples/nf_100_fs_32_sm_01/F2.flac",
+                        path: "WB_samples/nf_100_fs_32_sm_01/F2_cc_3600_ft_sm_01.flac",
                         hide: false
                     },
                     {
                         title: "exp1_lg ",
-                        path: "WB_samples/nf_100_fs_32_lg_01/F2.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_01/F2_cc_3600_ft_lg_01.flac",
                         hide: false
                     },
                     {
                         title: "exp2_lg ",
-                        path: "WB_samples/nf_100_fs_32_lg_02/F2.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_02/F2_cc_3600_ft_lg_02.flac",
                         hide: false
                     },
                     {
                         title: "exp3_lg ",
-                        path: "WB_samples/nf_100_fs_32_lg_03/F2.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_03/F2_cc_3600_ft_lg_03.flac",
                         hide: false
                     },
 
@@ -313,160 +313,160 @@ export const DATA = [
         ],
         content: [
             {
-               title: "<i class='fas fa-male'></i> M1</i>: Original",
+               title: "<i class='fas fa-male'></i> M1: Original",
                 transcription: "Slide the box into that empty space. The plant grew large and green in the window.",
                 hide: false,
                 content: [
                     {
                         title: "Original input",
-                        path: "WB_samples/original/M1.flac",
+                        path: "WB_samples/original/M1_orig.flac",
                         hide: false
                     },
                     {
                         title: "7.2 kbps (original)",
-                        path: "WB_samples/CC_8000/M1.flac",
+                        path: "WB_samples/CC_7200/M1_cc_7200_orig.flac",
                         hide: false
                     },
 
                 ]
             },
             {
-                title: "<i class='fas fa-male'></i> M1</i>",
+                title: "<i class='fas fa-male'></i> M1",
                 hide: false,
                 content: [
                     {
                         title: "exp3_lg = 3.6 kbps",
-                        path: "WB_samples/nf_100_fs_32_lg_03/M1.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_03/M1_cc_3600_ft_lg_03.flac",
                         hide: false
                     },
                     {
                         title: "exp4_lg",
-                        path: "WB_samples/nf_100_fs_32_lg_04/M1.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_04/M1_cc_3600_ft_lg_04.flac",
                         hide: false
                     },
                     {
                         title: "exp5_lg",
-                        path: "WB_samples/nf_100_fs_32_lg_05/M1.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_05/M1_cc_3600_ft_lg_05.flac",
                         hide: false
                     },
 
                 ]
             },
             {
-                title: "<i class='fas fa-male'></i> M2</i>: Original",
+                title: "<i class='fas fa-male'></i> M2: Original",
                 transcription: "He broke a new shoelace that day. The coffee stand is too high for the couch.",
                 hide: false,
                 content: [
                     {
                         title: "Original input",
-                        path: "WB_samples/original/M2.flac",
+                        path: "WB_samples/original/M2_orig.flac",
                         hide: false
                     },
                     {
                         title: "7.2 kbps (original)",
-                        path: "WB_samples/CC_8000/M2.flac",
+                        path: "WB_samples/CC_7200/M2_cc_7200_orig.flac",
                         hide: false
                     },
 
                 ]
             },
             {
-                title: "<i class='fas fa-male'></i> M2</i>",
+                title: "<i class='fas fa-male'></i> M2",
                 hide: false,
                 content: [
                     {
                         title: "exp3_lg = 3.6 kbps",
-                        path: "WB_samples/nf_100_fs_32_lg_03/M2.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_03/M2_cc_3600_ft_lg_03.flac",
                         hide: false
                     },
                     {
                         title: "exp4_lg",
-                        path: "WB_samples/nf_100_fs_32_lg_04/M2.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_04/M2_cc_3600_ft_lg_04.flac",
                         hide: false
                     },
                     {
                         title: "exp5_lg",
-                        path: "WB_samples/nf_100_fs_32_lg_05/M2.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_05/M2_cc_3600_ft_lg_05.flac",
                         hide: false
                     },
 
                 ]
             },
             {
-                title: "<i class='fas fa-female'></i> F1</i>: Original",
+                title: "<i class='fas fa-female'></i> F1: Original",
                 transcription: "The idea is to show both are just straight. The kitten chased the dog down the street.",
                 hide: false,
                 content: [
                     {
                         title: "Original input",
-                        path: "WB_samples/original/F1.flac",
+                        path: "WB_samples/original/F1_orig.flac",
                         hide: false
                     },
                     {
                         title: "7.2 kbps (original)",
-                        path: "WB_samples/CC_8000/F1.flac",
+                        path: "WB_samples/CC_7200/F1_cc_7200_orig.flac",
                         hide: false
                     },
 
                 ]
             },
             {
-                title: "<i class='fas fa-female'></i> F1</i>",
+                title: "<i class='fas fa-female'></i> F1",
                 hide: false,
                 content: [
                     {
                         title: "exp3_lg = 3.6 kbps",
-                        path: "WB_samples/nf_100_fs_32_lg_03/F1.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_03/F1_cc_3600_ft_lg_03.flac",
                         hide: false
                     },
                     {
                         title: "exp4_lg",
-                        path: "WB_samples/nf_100_fs_32_lg_04/F1.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_04/F1_cc_3600_ft_lg_04.flac",
                         hide: false
                     },
                     {
                         title: "exp5_lg",
-                        path: "WB_samples/nf_100_fs_32_lg_05/F1.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_05/F1_cc_3600_ft_lg_05.flac",
                         hide: false
                     },
 
                 ]
             },
             {
-                title: "<i class='fas fa-female'></i> F2</i>: Original",
+                title: "<i class='fas fa-female'></i> F2: Original",
                 transcription: "The stray cat gave birth to kittens. The young girl gave no clear response.",
                 hide: false,
                 content: [
                     {
                         title: "Original input",
-                        path: "WB_samples/original/F2.flac",
+                        path: "WB_samples/original/F2_orig.flac",
                         hide: false
                     },
                     {
                         title: "7.2 kbps (original)",
-                        path: "WB_samples/CC_8000/F2.flac",
+                        path: "WB_samples/CC_7200/F2_cc_7200_orig.flac",
                         hide: false
                     },
 
                 ]
             },
             {
-                title: "<i class='fas fa-female'></i> F2</i>",
+                title: "<i class='fas fa-female'></i> F2",
                 hide: false,
                 content: [
                     {
                         title: "exp3_lg = 3.6 kbps",
-                        path: "WB_samples/nf_100_fs_32_lg_03/F2.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_03/F2_cc_3600_ft_lg_03.flac",
                         hide: false
                     },
                     {
                         title: "exp4_lg",
-                        path: "WB_samples/nf_100_fs_32_lg_04/F2.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_04/F2_cc_3600_ft_lg_04.flac",
                         hide: false
                     },
                     {
                         title: "exp5_lg",
-                        path: "WB_samples/nf_100_fs_32_lg_05/F2.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_05/F2_cc_3600_ft_lg_05.flac",
                         hide: false
                     },
 
@@ -485,160 +485,160 @@ export const DATA = [
         ],
         content: [
             {
-               title: "<i class='fas fa-male'></i> M1</i>: Original",
+               title: "<i class='fas fa-male'></i> M1: Original",
                 transcription: "Slide the box into that empty space. The plant grew large and green in the window.",
                 hide: false,
                 content: [
                     {
                         title: "Original input",
-                        path: "WB_samples/original/M1.flac",
+                        path: "WB_samples/original/M1_orig.flac",
                         hide: false
                     },
                     {
                         title: "7.2 kbps (original)",
-                        path: "WB_samples/CC_8000/M1.flac",
+                        path: "WB_samples/CC_7200/M1_cc_7200_orig.flac",
                         hide: false
                     },
 
                 ]
             },
             {
-                title: "<i class='fas fa-male'></i> M1</i>",
+                title: "<i class='fas fa-male'></i> M1",
                 hide: false,
                 content: [
                     {
                         title: "exp3_lg = 3.6 kbps",
-                        path: "WB_samples/nf_100_fs_32_lg_03/M1.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_03/M1_cc_3600_ft_lg_03.flac",
                         hide: false
                     },
                     {
                         title: "exp4_lg",
-                        path: "WB_samples/nf_100_fs_32_lg_04/M1.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_04/M1_cc_3600_ft_lg_04.flac",
                         hide: false
                     },
                     {
                         title: "exp6_lg",
-                        path: "WB_samples/nf_100_fs_32_lg_06/M1.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_06/M1_cc_3600_ft_lg_06.flac",
                         hide: false
                     },
 
                 ]
             },
             {
-                title: "<i class='fas fa-male'></i> M2</i>: Original",
+                title: "<i class='fas fa-male'></i> M2: Original",
                 transcription: "He broke a new shoelace that day. The coffee stand is too high for the couch.",
                 hide: false,
                 content: [
                     {
                         title: "Original input",
-                        path: "WB_samples/original/M2.flac",
+                        path: "WB_samples/original/M2_orig.flac",
                         hide: false
                     },
                     {
                         title: "7.2 kbps (original)",
-                        path: "WB_samples/CC_8000/M2.flac",
+                        path: "WB_samples/CC_7200/M2_cc_7200_orig.flac",
                         hide: false
                     },
 
                 ]
             },
             {
-                title: "<i class='fas fa-male'></i> M2</i>",
+                title: "<i class='fas fa-male'></i> M2",
                 hide: false,
                 content: [
                     {
                         title: "exp3_lg = 3.6 kbps",
-                        path: "WB_samples/nf_100_fs_32_lg_03/M2.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_03/M2_cc_3600_ft_lg_03.flac",
                         hide: false
                     },
                     {
                         title: "exp4_lg",
-                        path: "WB_samples/nf_100_fs_32_lg_04/M2.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_04/M2_cc_3600_ft_lg_04.flac",
                         hide: false
                     },
                     {
                         title: "exp6_lg",
-                        path: "WB_samples/nf_100_fs_32_lg_06/M2.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_06/M2_cc_3600_ft_lg_06.flac",
                         hide: false
                     },
 
                 ]
             },
             {
-                title: "<i class='fas fa-female'></i> F1</i>: Original",
+                title: "<i class='fas fa-female'></i> F1: Original",
                 transcription: "The idea is to show both are just straight. The kitten chased the dog down the street.",
                 hide: false,
                 content: [
                     {
                         title: "Original input",
-                        path: "WB_samples/original/F1.flac",
+                        path: "WB_samples/original/F1_orig.flac",
                         hide: false
                     },
                     {
                         title: "7.2 kbps (original)",
-                        path: "WB_samples/CC_8000/F1.flac",
+                        path: "WB_samples/CC_7200/F1_cc_7200_orig.flac",
                         hide: false
                     },
 
                 ]
             },
             {
-                title: "<i class='fas fa-female'></i> F1</i>",
+                title: "<i class='fas fa-female'></i> F1",
                 hide: false,
                 content: [
                     {
                         title: "exp3_lg = 3.6 kbps",
-                        path: "WB_samples/nf_100_fs_32_lg_03/F1.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_03/F1_cc_3600_ft_lg_03.flac",
                         hide: false
                     },
                     {
                         title: "exp4_lg",
-                        path: "WB_samples/nf_100_fs_32_lg_04/F1.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_04/F1_cc_3600_ft_lg_04.flac",
                         hide: false
                     },
                     {
                         title: "exp6_lg",
-                        path: "WB_samples/nf_100_fs_32_lg_06/F1.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_06/F1_cc_3600_ft_lg_06.flac",
                         hide: false
                     },
 
                 ]
             },
             {
-                title: "<i class='fas fa-female'></i> F2</i>: Original",
+                title: "<i class='fas fa-female'></i> F2: Original",
                 transcription: "The stray cat gave birth to kittens. The young girl gave no clear response.",
                 hide: false,
                 content: [
                     {
                         title: "Original input",
-                        path: "WB_samples/original/F2.flac",
+                        path: "WB_samples/original/F2_orig.flac",
                         hide: false
                     },
                     {
                         title: "7.2 kbps (original)",
-                        path: "WB_samples/CC_8000/F2.flac",
+                        path: "WB_samples/CC_7200/F2_cc_7200_orig.flac",
                         hide: false
                     },
 
                 ]
             },
             {
-                title: "<i class='fas fa-female'></i> F2</i>",
+                title: "<i class='fas fa-female'></i> F2",
                 hide: false,
                 content: [
                     {
                         title: "exp3_lg = 3.6 kbps",
-                        path: "WB_samples/nf_100_fs_32_lg_03/F2.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_03/F2_cc_3600_ft_lg_03.flac",
                         hide: false
                     },
                     {
                         title: "exp4_lg",
-                        path: "WB_samples/nf_100_fs_32_lg_04/F2.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_04/F2_cc_3600_ft_lg_04.flac",
                         hide: false
                     },
                     {
                         title: "exp6_lg",
-                        path: "WB_samples/nf_100_fs_32_lg_06/F2.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_06/F2_cc_3600_ft_lg_06.flac",
                         hide: false
                     },
 
@@ -657,160 +657,160 @@ export const DATA = [
         ],
         content: [
             {
-               title: "<i class='fas fa-male'></i> M1</i>: Original",
+               title: "<i class='fas fa-male'></i> M1: Original",
                 transcription: "Slide the box into that empty space. The plant grew large and green in the window.",
                 hide: false,
                 content: [
                     {
                         title: "Original input",
-                        path: "WB_samples/original/M1.flac",
+                        path: "WB_samples/original/M1_orig.flac",
                         hide: false
                     },
                     {
                         title: "7.2 kbps (original)",
-                        path: "WB_samples/CC_8000/M1.flac",
+                        path: "WB_samples/CC_7200/M1_cc_7200_orig.flac",
                         hide: false
                     },
 
                 ]
             },
             {
-                title: "<i class='fas fa-male'></i> M1</i>",
+                title: "<i class='fas fa-male'></i> M1",
                 hide: false,
                 content: [
                     {
                         title: "exp3_lg = 3.6 kbps",
-                        path: "WB_samples/nf_100_fs_32_lg_03/M1.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_03/M1_cc_3600_ft_lg_03.flac",
                         hide: false
                     },
                     {
                         title: "exp4_lg",
-                        path: "WB_samples/nf_100_fs_32_lg_04/M1.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_04/M1_cc_3600_ft_lg_04.flac",
                         hide: false
                     },
                     {
                         title: "exp7_lg",
-                        path: "WB_samples/nf_100_fs_32_lg_07/M1.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_07/M1_cc_3600_ft_lg_07.flac",
                         hide: false
                     },
 
                 ]
             },
             {
-                title: "<i class='fas fa-male'></i> M2</i>: Original",
+                title: "<i class='fas fa-male'></i> M2: Original",
                 transcription: "He broke a new shoelace that day. The coffee stand is too high for the couch.",
                 hide: false,
                 content: [
                     {
                         title: "Original input",
-                        path: "WB_samples/original/M2.flac",
+                        path: "WB_samples/original/M2_orig.flac",
                         hide: false
                     },
                     {
                         title: "7.2 kbps (original)",
-                        path: "WB_samples/CC_8000/M2.flac",
+                        path: "WB_samples/CC_7200/M2_cc_7200_orig.flac",
                         hide: false
                     },
 
                 ]
             },
             {
-                title: "<i class='fas fa-male'></i> M2</i>",
+                title: "<i class='fas fa-male'></i> M2",
                 hide: false,
                 content: [
                     {
                         title: "exp3_lg = 3.6 kbps",
-                        path: "WB_samples/nf_100_fs_32_lg_03/M2.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_03/M2_cc_3600_ft_lg_03.flac",
                         hide: false
                     },
                     {
                         title: "exp4_lg",
-                        path: "WB_samples/nf_100_fs_32_lg_04/M2.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_04/M2_cc_3600_ft_lg_04.flac",
                         hide: false
                     },
                     {
                         title: "exp7_lg",
-                        path: "WB_samples/nf_100_fs_32_lg_07/M2.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_07/M2_cc_3600_ft_lg_07.flac",
                         hide: false
                     },
 
                 ]
             },
             {
-                title: "<i class='fas fa-female'></i> F1</i>: Original",
+                title: "<i class='fas fa-female'></i> F1: Original",
                 transcription: "The idea is to show both are just straight. The kitten chased the dog down the street.",
                 hide: false,
                 content: [
                     {
                         title: "Original input",
-                        path: "WB_samples/original/F1.flac",
+                        path: "WB_samples/original/F1_orig.flac",
                         hide: false
                     },
                     {
                         title: "7.2 kbps (original)",
-                        path: "WB_samples/CC_8000/F1.flac",
+                        path: "WB_samples/CC_7200/F1_cc_7200_orig.flac",
                         hide: false
                     },
 
                 ]
             },
             {
-                title: "<i class='fas fa-female'></i> F1</i>",
+                title: "<i class='fas fa-female'></i> F1",
                 hide: false,
                 content: [
                     {
                         title: "exp3_lg = 3.6 kbps",
-                        path: "WB_samples/nf_100_fs_32_lg_03/F1.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_03/F1_cc_3600_ft_lg_03.flac",
                         hide: false
                     },
                     {
                         title: "exp4_lg",
-                        path: "WB_samples/nf_100_fs_32_lg_04/F1.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_04/F1_cc_3600_ft_lg_04.flac",
                         hide: false
                     },
                     {
                         title: "exp7_lg",
-                        path: "WB_samples/nf_100_fs_32_lg_07/F1.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_07/F1_cc_3600_ft_lg_07.flac",
                         hide: false
                     },
 
                 ]
             },
             {
-                title: "<i class='fas fa-female'></i> F2</i>: Original",
+                title: "<i class='fas fa-female'></i> F2: Original",
                 transcription: "The stray cat gave birth to kittens. The young girl gave no clear response.",
                 hide: false,
                 content: [
                     {
                         title: "Original input",
-                        path: "WB_samples/original/F2.flac",
+                        path: "WB_samples/original/F2_orig.flac",
                         hide: false
                     },
                     {
                         title: "7.2 kbps (original)",
-                        path: "WB_samples/CC_8000/F2.flac",
+                        path: "WB_samples/CC_7200/F2_cc_7200_orig.flac",
                         hide: false
                     },
 
                 ]
             },
             {
-                title: "<i class='fas fa-female'></i> F2</i>",
+                title: "<i class='fas fa-female'></i> F2",
                 hide: false,
                 content: [
                     {
                         title: "exp3_lg = 3.6 kbps",
-                        path: "WB_samples/nf_100_fs_32_lg_03/F2.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_03/F2_cc_3600_ft_lg_03.flac",
                         hide: false
                     },
                     {
                         title: "exp4_lg",
-                        path: "WB_samples/nf_100_fs_32_lg_04/F2.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_04/F2_cc_3600_ft_lg_04.flac",
                         hide: false
                     },
                     {
                         title: "exp7_lg",
-                        path: "WB_samples/nf_100_fs_32_lg_07/F2.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_07/F2_cc_3600_ft_lg_07.flac",
                         hide: false
                     },
 
@@ -829,160 +829,160 @@ export const DATA = [
         ],
         content: [
             {
-               title: "<i class='fas fa-male'></i> M1</i>: Original",
+               title: "<i class='fas fa-male'></i> M1: Original",
                 transcription: "Slide the box into that empty space. The plant grew large and green in the window.",
                 hide: false,
                 content: [
                     {
                         title: "Original input",
-                        path: "WB_samples/original/M1.flac",
+                        path: "WB_samples/original/M1_orig.flac",
                         hide: false
                     },
                     {
                         title: "7.2 kbps (original)",
-                        path: "WB_samples/CC_8000/M1.flac",
+                        path: "WB_samples/CC_7200/M1_cc_7200_orig.flac",
                         hide: false
                     },
 
                 ]
             },
             {
-                title: "<i class='fas fa-male'></i> M1</i>",
+                title: "<i class='fas fa-male'></i> M1",
                 hide: false,
                 content: [
                     {
                         title: "exp3_lg = 3.6 kbps",
-                        path: "WB_samples/nf_100_fs_32_lg_03/M1.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_03/M1_cc_3600_ft_lg_03.flac",
                         hide: false
                     },
                     {
                         title: "exp4_lg",
-                        path: "WB_samples/nf_100_fs_32_lg_04/M1.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_04/M1_cc_3600_ft_lg_04.flac",
                         hide: false
                     },
                     {
                         title: "exp8_lg",
-                        path: "WB_samples/nf_100_fs_32_lg_08/M1.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_08/M1_cc_3600_ft_lg_08.flac",
                         hide: false
                     },
 
                 ]
             },
             {
-                title: "<i class='fas fa-male'></i> M2</i>: Original",
+                title: "<i class='fas fa-male'></i> M2: Original",
                 transcription: "He broke a new shoelace that day. The coffee stand is too high for the couch.",
                 hide: false,
                 content: [
                     {
                         title: "Original input",
-                        path: "WB_samples/original/M2.flac",
+                        path: "WB_samples/original/M2_orig.flac",
                         hide: false
                     },
                     {
                         title: "7.2 kbps (original)",
-                        path: "WB_samples/CC_8000/M2.flac",
+                        path: "WB_samples/CC_7200/M2_cc_7200_orig.flac",
                         hide: false
                     },
 
                 ]
             },
             {
-                title: "<i class='fas fa-male'></i> M2</i>",
+                title: "<i class='fas fa-male'></i> M2",
                 hide: false,
                 content: [
                     {
                         title: "exp3_lg = 3.6 kbps",
-                        path: "WB_samples/nf_100_fs_32_lg_03/M2.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_03/M2_cc_3600_ft_lg_03.flac",
                         hide: false
                     },
                     {
                         title: "exp4_lg",
-                        path: "WB_samples/nf_100_fs_32_lg_04/M2.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_04/M2_cc_3600_ft_lg_04.flac",
                         hide: false
                     },
                     {
                         title: "exp8_lg",
-                        path: "WB_samples/nf_100_fs_32_lg_08/M2.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_08/M2_cc_3600_ft_lg_08.flac",
                         hide: false
                     },
 
                 ]
             },
             {
-                title: "<i class='fas fa-female'></i> F1</i>: Original",
+                title: "<i class='fas fa-female'></i> F1: Original",
                 transcription: "The idea is to show both are just straight. The kitten chased the dog down the street.",
                 hide: false,
                 content: [
                     {
                         title: "Original input",
-                        path: "WB_samples/original/F1.flac",
+                        path: "WB_samples/original/F1_orig.flac",
                         hide: false
                     },
                     {
                         title: "7.2 kbps (original)",
-                        path: "WB_samples/CC_8000/F1.flac",
+                        path: "WB_samples/CC_7200/F1_cc_7200_orig.flac",
                         hide: false
                     },
 
                 ]
             },
             {
-                title: "<i class='fas fa-female'></i> F1</i>",
+                title: "<i class='fas fa-female'></i> F1",
                 hide: false,
                 content: [
                     {
                         title: "exp3_lg = 3.6 kbps",
-                        path: "WB_samples/nf_100_fs_32_lg_03/F1.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_03/F1_cc_3600_ft_lg_03.flac",
                         hide: false
                     },
                     {
                         title: "exp4_lg",
-                        path: "WB_samples/nf_100_fs_32_lg_04/F1.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_04/F1_cc_3600_ft_lg_04.flac",
                         hide: false
                     },
                     {
                         title: "exp8_lg",
-                        path: "WB_samples/nf_100_fs_32_lg_08/F1.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_08/F1_cc_3600_ft_lg_08.flac",
                         hide: false
                     },
 
                 ]
             },
             {
-                title: "<i class='fas fa-female'></i> F2</i>: Original",
+                title: "<i class='fas fa-female'></i> F2: Original",
                 transcription: "The stray cat gave birth to kittens. The young girl gave no clear response.",
                 hide: false,
                 content: [
                     {
                         title: "Original input",
-                        path: "WB_samples/original/F2.flac",
+                        path: "WB_samples/original/F2_orig.flac",
                         hide: false
                     },
                     {
                         title: "7.2 kbps (original)",
-                        path: "WB_samples/CC_8000/F2.flac",
+                        path: "WB_samples/CC_7200/F2_cc_7200_orig.flac",
                         hide: false
                     },
 
                 ]
             },
             {
-                title: "<i class='fas fa-female'></i> F2</i>",
+                title: "<i class='fas fa-female'></i> F2",
                 hide: false,
                 content: [
                     {
                         title: "exp3_lg = 3.6 kbps",
-                        path: "WB_samples/nf_100_fs_32_lg_03/F2.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_03/F2_cc_3600_ft_lg_03.flac",
                         hide: false
                     },
                     {
                         title: "exp4_lg",
-                        path: "WB_samples/nf_100_fs_32_lg_04/F2.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_04/F2_cc_3600_ft_lg_04.flac",
                         hide: false
                     },
                     {
                         title: "exp8_lg",
-                        path: "WB_samples/nf_100_fs_32_lg_08/F2.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_08/F2_cc_3600_ft_lg_08.flac",
                         hide: false
                     },
 
@@ -1001,160 +1001,160 @@ export const DATA = [
         ],
         content: [
             {
-               title: "<i class='fas fa-male'></i> M1</i>: Original",
+               title: "<i class='fas fa-male'></i> M1: Original",
                 transcription: "Slide the box into that empty space. The plant grew large and green in the window.",
                 hide: false,
                 content: [
                     {
                         title: "Original input",
-                        path: "WB_samples/original/M1.flac",
+                        path: "WB_samples/original/M1_orig.flac",
                         hide: false
                     },
                     {
                         title: "7.2 kbps (original)",
-                        path: "WB_samples/CC_8000/M1.flac",
+                        path: "WB_samples/CC_7200/M1_cc_7200_orig.flac",
                         hide: false
                     },
 
                 ]
             },
             {
-                title: "<i class='fas fa-male'></i> M1</i>",
+                title: "<i class='fas fa-male'></i> M1",
                 hide: false,
                 content: [
                     {
                         title: "exp3_lg = 3.6 kbps",
-                        path: "WB_samples/nf_100_fs_32_lg_03/M1.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_03/M1_cc_3600_ft_lg_03.flac",
                         hide: false
                     },
                     {
                         title: "exp4_lg",
-                        path: "WB_samples/nf_100_fs_32_lg_04/M1.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_04/M1_cc_3600_ft_lg_04.flac",
                         hide: false
                     },
                     {
                         title: "exp9_lg",
-                        path: "WB_samples/nf_100_fs_32_lg_09/M1.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_09/M1_cc_3600_ft_lg_09.flac",
                         hide: false
                     },
 
                 ]
             },
             {
-                title: "<i class='fas fa-male'></i> M2</i>: Original",
+                title: "<i class='fas fa-male'></i> M2: Original",
                 transcription: "He broke a new shoelace that day. The coffee stand is too high for the couch.",
                 hide: false,
                 content: [
                     {
                         title: "Original input",
-                        path: "WB_samples/original/M2.flac",
+                        path: "WB_samples/original/M2_orig.flac",
                         hide: false
                     },
                     {
                         title: "7.2 kbps (original)",
-                        path: "WB_samples/CC_8000/M2.flac",
+                        path: "WB_samples/CC_7200/M2_cc_7200_orig.flac",
                         hide: false
                     },
 
                 ]
             },
             {
-                title: "<i class='fas fa-male'></i> M2</i>",
+                title: "<i class='fas fa-male'></i> M2",
                 hide: false,
                 content: [
                     {
                         title: "exp3_lg = 3.6 kbps",
-                        path: "WB_samples/nf_100_fs_32_lg_03/M2.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_03/M2_cc_3600_ft_lg_03.flac",
                         hide: false
                     },
                     {
                         title: "exp4_lg",
-                        path: "WB_samples/nf_100_fs_32_lg_04/M2.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_04/M2_cc_3600_ft_lg_04.flac",
                         hide: false
                     },
                     {
                         title: "exp9_lg",
-                        path: "WB_samples/nf_100_fs_32_lg_09/M2.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_09/M2_cc_3600_ft_lg_09.flac",
                         hide: false
                     },
 
                 ]
             },
             {
-                title: "<i class='fas fa-female'></i> F1</i>: Original",
+                title: "<i class='fas fa-female'></i> F1: Original",
                 transcription: "The idea is to show both are just straight. The kitten chased the dog down the street.",
                 hide: false,
                 content: [
                     {
                         title: "Original input",
-                        path: "WB_samples/original/F1.flac",
+                        path: "WB_samples/original/F1_orig.flac",
                         hide: false
                     },
                     {
                         title: "7.2 kbps (original)",
-                        path: "WB_samples/CC_8000/F1.flac",
+                        path: "WB_samples/CC_7200/F1_cc_7200_orig.flac",
                         hide: false
                     },
 
                 ]
             },
             {
-                title: "<i class='fas fa-female'></i> F1</i>",
+                title: "<i class='fas fa-female'></i> F1",
                 hide: false,
                 content: [
                     {
                         title: "exp3_lg = 3.6 kbps",
-                        path: "WB_samples/nf_100_fs_32_lg_03/F1.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_03/F1_cc_3600_ft_lg_03.flac",
                         hide: false
                     },
                     {
                         title: "exp4_lg",
-                        path: "WB_samples/nf_100_fs_32_lg_04/F1.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_04/F1_cc_3600_ft_lg_04.flac",
                         hide: false
                     },
                     {
                         title: "exp9_lg",
-                        path: "WB_samples/nf_100_fs_32_lg_09/F1.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_09/F1_cc_3600_ft_lg_09.flac",
                         hide: false
                     },
 
                 ]
             },
             {
-                title: "<i class='fas fa-female'></i> F2</i>: Original",
+                title: "<i class='fas fa-female'></i> F2: Original",
                 transcription: "The stray cat gave birth to kittens. The young girl gave no clear response.",
                 hide: false,
                 content: [
                     {
                         title: "Original input",
-                        path: "WB_samples/original/F2.flac",
+                        path: "WB_samples/original/F2_orig.flac",
                         hide: false
                     },
                     {
                         title: "7.2 kbps (original)",
-                        path: "WB_samples/CC_8000/F2.flac",
+                        path: "WB_samples/CC_7200/F2_cc_7200_orig.flac",
                         hide: false
                     },
 
                 ]
             },
             {
-                title: "<i class='fas fa-female'></i> F2</i>",
+                title: "<i class='fas fa-female'></i> F2",
                 hide: false,
                 content: [
                     {
                         title: "exp3_lg = 3.6 kbps",
-                        path: "WB_samples/nf_100_fs_32_lg_03/F2.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_03/F2_cc_3600_ft_lg_03.flac",
                         hide: false
                     },
                     {
                         title: "exp4_lg",
-                        path: "WB_samples/nf_100_fs_32_lg_04/F2.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_04/F2_cc_3600_ft_lg_04.flac",
                         hide: false
                     },
                     {
                         title: "exp9_lg",
-                        path: "WB_samples/nf_100_fs_32_lg_09/F2.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_09/F2_cc_3600_ft_lg_09.flac",
                         hide: false
                     },
 
@@ -1173,160 +1173,160 @@ export const DATA = [
         ],
         content: [
             {
-               title: "<i class='fas fa-male'></i> M1</i>: Original",
+               title: "<i class='fas fa-male'></i> M1: Original",
                 transcription: "Slide the box into that empty space. The plant grew large and green in the window.",
                 hide: false,
                 content: [
                     {
                         title: "Original input",
-                        path: "WB_samples/original/M1.flac",
+                        path: "WB_samples/original/M1_orig.flac",
                         hide: false
                     },
                     {
                         title: "7.2 kbps (original)",
-                        path: "WB_samples/CC_8000/M1.flac",
+                        path: "WB_samples/CC_7200/M1_cc_7200_orig.flac",
                         hide: false
                     },
 
                 ]
             },
             {
-                title: "<i class='fas fa-male'></i> M1</i>",
+                title: "<i class='fas fa-male'></i> M1",
                 hide: false,
                 content: [
                     {
                         title: "exp3_lg = 3.6 kbps",
-                        path: "WB_samples/nf_100_fs_32_lg_03/M1.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_03/M1_cc_3600_ft_lg_03.flac",
                         hide: false
                     },
                     {
                         title: "exp4_lg",
-                        path: "WB_samples/nf_100_fs_32_lg_04/M1.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_04/M1_cc_3600_ft_lg_04.flac",
                         hide: false
                     },
                     {
                         title: "exp10_lg",
-                        path: "WB_samples/nf_100_fs_32_lg_10/M1.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_10/M1_cc_3600_ft_lg_10.flac",
                         hide: false
                     },
 
                 ]
             },
             {
-                title: "<i class='fas fa-male'></i> M2</i>: Original",
+                title: "<i class='fas fa-male'></i> M2: Original",
                 transcription: "He broke a new shoelace that day. The coffee stand is too high for the couch.",
                 hide: false,
                 content: [
                     {
                         title: "Original input",
-                        path: "WB_samples/original/M2.flac",
+                        path: "WB_samples/original/M2_orig.flac",
                         hide: false
                     },
                     {
                         title: "7.2 kbps (original)",
-                        path: "WB_samples/CC_8000/M2.flac",
+                        path: "WB_samples/CC_7200/M2_cc_7200_orig.flac",
                         hide: false
                     },
 
                 ]
             },
             {
-                title: "<i class='fas fa-male'></i> M2</i>",
+                title: "<i class='fas fa-male'></i> M2",
                 hide: false,
                 content: [
                     {
                         title: "exp3_lg = 3.6 kbps",
-                        path: "WB_samples/nf_100_fs_32_lg_03/M2.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_03/M2_cc_3600_ft_lg_03.flac",
                         hide: false
                     },
                     {
                         title: "exp4_lg",
-                        path: "WB_samples/nf_100_fs_32_lg_04/M2.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_04/M2_cc_3600_ft_lg_04.flac",
                         hide: false
                     },
                     {
                         title: "exp10_lg",
-                        path: "WB_samples/nf_100_fs_32_lg_10/M2.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_10/M2_cc_3600_ft_lg_10.flac",
                         hide: false
                     },
 
                 ]
             },
             {
-                title: "<i class='fas fa-female'></i> F1</i>: Original",
+                title: "<i class='fas fa-female'></i> F1: Original",
                 transcription: "The idea is to show both are just straight. The kitten chased the dog down the street.",
                 hide: false,
                 content: [
                     {
                         title: "Original input",
-                        path: "WB_samples/original/F1.flac",
+                        path: "WB_samples/original/F1_orig.flac",
                         hide: false
                     },
                     {
                         title: "7.2 kbps (original)",
-                        path: "WB_samples/CC_8000/F1.flac",
+                        path: "WB_samples/CC_7200/F1_cc_7200_orig.flac",
                         hide: false
                     },
 
                 ]
             },
             {
-                title: "<i class='fas fa-female'></i> F1</i>",
+                title: "<i class='fas fa-female'></i> F1",
                 hide: false,
                 content: [
                     {
                         title: "exp3_lg = 3.6 kbps",
-                        path: "WB_samples/nf_100_fs_32_lg_03/F1.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_03/F1_cc_3600_ft_lg_03.flac",
                         hide: false
                     },
                     {
                         title: "exp4_lg",
-                        path: "WB_samples/nf_100_fs_32_lg_04/F1.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_04/F1_cc_3600_ft_lg_04.flac",
                         hide: false
                     },
                     {
                         title: "exp10_lg",
-                        path: "WB_samples/nf_100_fs_32_lg_10/F1.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_10/F1_cc_3600_ft_lg_10.flac",
                         hide: false
                     },
 
                 ]
             },
             {
-                title: "<i class='fas fa-female'></i> F2</i>: Original",
+                title: "<i class='fas fa-female'></i> F2: Original",
                 transcription: "The stray cat gave birth to kittens. The young girl gave no clear response.",
                 hide: false,
                 content: [
                     {
                         title: "Original input",
-                        path: "WB_samples/original/F2.flac",
+                        path: "WB_samples/original/F2_orig.flac",
                         hide: false
                     },
                     {
                         title: "7.2 kbps (original)",
-                        path: "WB_samples/CC_8000/F2.flac",
+                        path: "WB_samples/CC_7200/F2_cc_7200_orig.flac",
                         hide: false
                     },
 
                 ]
             },
             {
-                title: "<i class='fas fa-female'></i> F2</i>",
+                title: "<i class='fas fa-female'></i> F2",
                 hide: false,
                 content: [
                     {
                         title: "exp3_lg = 3.6 kbps",
-                        path: "WB_samples/nf_100_fs_32_lg_03/F2.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_03/F2_cc_3600_ft_lg_03.flac",
                         hide: false
                     },
                     {
                         title: "exp4_lg",
-                        path: "WB_samples/nf_100_fs_32_lg_04/F2.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_04/F2_cc_3600_ft_lg_04.flac",
                         hide: false
                     },
                     {
                         title: "exp10_lg",
-                        path: "WB_samples/nf_100_fs_32_lg_10/F2.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_10/F2_cc_3600_ft_lg_10.flac",
                         hide: false
                     },
 
@@ -1345,160 +1345,160 @@ export const DATA = [
         ],
         content: [
             {
-               title: "<i class='fas fa-male'></i> M1</i>: Original",
+               title: "<i class='fas fa-male'></i> M1: Original",
                 transcription: "Slide the box into that empty space. The plant grew large and green in the window.",
                 hide: false,
                 content: [
                     {
                         title: "Original input",
-                        path: "WB_samples/original/M1.flac",
+                        path: "WB_samples/original/M1_orig.flac",
                         hide: false
                     },
                     {
                         title: "7.2 kbps (original)",
-                        path: "WB_samples/CC_8000/M1.flac",
+                        path: "WB_samples/CC_7200/M1_cc_7200_orig.flac",
                         hide: false
                     },
 
                 ]
             },
             {
-                title: "<i class='fas fa-male'></i> M1</i>",
+                title: "<i class='fas fa-male'></i> M1",
                 hide: false,
                 content: [
                     {
                         title: "exp3_lg = 3.6 kbps",
-                        path: "WB_samples/nf_100_fs_32_lg_03/M1.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_03/M1_cc_3600_ft_lg_03.flac",
                         hide: false
                     },
                     {
                         title: "exp4_lg",
-                        path: "WB_samples/nf_100_fs_32_lg_04/M1.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_04/M1_cc_3600_ft_lg_04.flac",
                         hide: false
                     },
                     {
                         title: "exp11_lg",
-                        path: "WB_samples/nf_100_fs_32_lg_11/M1.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_11/M1_cc_3600_ft_lg_11.flac",
                         hide: false
                     },
 
                 ]
             },
             {
-                title: "<i class='fas fa-male'></i> M2</i>: Original",
+                title: "<i class='fas fa-male'></i> M2: Original",
                 transcription: "He broke a new shoelace that day. The coffee stand is too high for the couch.",
                 hide: false,
                 content: [
                     {
                         title: "Original input",
-                        path: "WB_samples/original/M2.flac",
+                        path: "WB_samples/original/M2_orig.flac",
                         hide: false
                     },
                     {
                         title: "7.2 kbps (original)",
-                        path: "WB_samples/CC_8000/M2.flac",
+                        path: "WB_samples/CC_7200/M2_cc_7200_orig.flac",
                         hide: false
                     },
 
                 ]
             },
             {
-                title: "<i class='fas fa-male'></i> M2</i>",
+                title: "<i class='fas fa-male'></i> M2",
                 hide: false,
                 content: [
                     {
                         title: "exp3_lg = 3.6 kbps",
-                        path: "WB_samples/nf_100_fs_32_lg_03/M2.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_03/M2_cc_3600_ft_lg_03.flac",
                         hide: false
                     },
                     {
                         title: "exp4_lg",
-                        path: "WB_samples/nf_100_fs_32_lg_04/M2.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_04/M2_cc_3600_ft_lg_04.flac",
                         hide: false
                     },
                     {
                         title: "exp11_lg",
-                        path: "WB_samples/nf_100_fs_32_lg_11/M2.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_11/M2_cc_3600_ft_lg_11.flac",
                         hide: false
                     },
 
                 ]
             },
             {
-                title: "<i class='fas fa-female'></i> F1</i>: Original",
+                title: "<i class='fas fa-female'></i> F1: Original",
                 transcription: "The idea is to show both are just straight. The kitten chased the dog down the street.",
                 hide: false,
                 content: [
                     {
                         title: "Original input",
-                        path: "WB_samples/original/F1.flac",
+                        path: "WB_samples/original/F1_orig.flac",
                         hide: false
                     },
                     {
                         title: "7.2 kbps (original)",
-                        path: "WB_samples/CC_8000/F1.flac",
+                        path: "WB_samples/CC_7200/F1_cc_7200_orig.flac",
                         hide: false
                     },
 
                 ]
             },
             {
-                title: "<i class='fas fa-female'></i> F1</i>",
+                title: "<i class='fas fa-female'></i> F1",
                 hide: false,
                 content: [
                     {
                         title: "exp3_lg = 3.6 kbps",
-                        path: "WB_samples/nf_100_fs_32_lg_03/F1.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_03/F1_cc_3600_ft_lg_03.flac",
                         hide: false
                     },
                     {
                         title: "exp4_lg",
-                        path: "WB_samples/nf_100_fs_32_lg_04/F1.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_04/F1_cc_3600_ft_lg_04.flac",
                         hide: false
                     },
                     {
                         title: "exp11_lg",
-                        path: "WB_samples/nf_100_fs_32_lg_11/F1.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_11/F1_cc_3600_ft_lg_11.flac",
                         hide: false
                     },
 
                 ]
             },
             {
-                title: "<i class='fas fa-female'></i> F2</i>: Original",
+                title: "<i class='fas fa-female'></i> F2: Original",
                 transcription: "The stray cat gave birth to kittens. The young girl gave no clear response.",
                 hide: false,
                 content: [
                     {
                         title: "Original input",
-                        path: "WB_samples/original/F2.flac",
+                        path: "WB_samples/original/F2_orig.flac",
                         hide: false
                     },
                     {
                         title: "7.2 kbps (original)",
-                        path: "WB_samples/CC_8000/F2.flac",
+                        path: "WB_samples/CC_7200/F2_cc_7200_orig.flac",
                         hide: false
                     },
 
                 ]
             },
             {
-                title: "<i class='fas fa-female'></i> F2</i>",
+                title: "<i class='fas fa-female'></i> F2",
                 hide: false,
                 content: [
                     {
                         title: "exp3_lg = 3.6 kbps",
-                        path: "WB_samples/nf_100_fs_32_lg_03/F2.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_03/F2_cc_3600_ft_lg_03.flac",
                         hide: false
                     },
                     {
                         title: "exp4_lg",
-                        path: "WB_samples/nf_100_fs_32_lg_04/F2.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_04/F2_cc_3600_ft_lg_04.flac",
                         hide: false
                     },
                     {
                         title: "exp11_lg",
-                        path: "WB_samples/nf_100_fs_32_lg_11/F2.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_11/F2_cc_3600_ft_lg_11.flac",
                         hide: false
                     },
 
@@ -1517,160 +1517,160 @@ export const DATA = [
         ],
         content: [
             {
-               title: "<i class='fas fa-male'></i> M1</i>: Original",
+               title: "<i class='fas fa-male'></i> M1: Original",
                 transcription: "Slide the box into that empty space. The plant grew large and green in the window.",
                 hide: false,
                 content: [
                     {
                         title: "Original input",
-                        path: "WB_samples/original/M1.flac",
+                        path: "WB_samples/original/M1_orig.flac",
                         hide: false
                     },
                     {
                         title: "7.2 kbps (original)",
-                        path: "WB_samples/CC_8000/M1.flac",
+                        path: "WB_samples/CC_7200/M1_cc_7200_orig.flac",
                         hide: false
                     },
 
                 ]
             },
             {
-                title: "<i class='fas fa-male'></i> M1</i>",
+                title: "<i class='fas fa-male'></i> M1",
                 hide: false,
                 content: [
                     {
                         title: "exp3_lg = 3.6 kbps",
-                        path: "WB_samples/nf_100_fs_32_lg_03/M1.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_03/M1_cc_3600_ft_lg_03.flac",
                         hide: false
                     },
                     {
                         title: "exp4_lg",
-                        path: "WB_samples/nf_100_fs_32_lg_04/M1.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_04/M1_cc_3600_ft_lg_04.flac",
                         hide: false
                     },
                     {
                         title: "exp12_lg",
-                        path: "WB_samples/nf_100_fs_32_lg_12/M1.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_12/M1_cc_3600_ft_lg_12.flac",
                         hide: false
                     },
 
                 ]
             },
             {
-                title: "<i class='fas fa-male'></i> M2</i>: Original",
+                title: "<i class='fas fa-male'></i> M2: Original",
                 transcription: "He broke a new shoelace that day. The coffee stand is too high for the couch.",
                 hide: false,
                 content: [
                     {
                         title: "Original input",
-                        path: "WB_samples/original/M2.flac",
+                        path: "WB_samples/original/M2_orig.flac",
                         hide: false
                     },
                     {
                         title: "7.2 kbps (original)",
-                        path: "WB_samples/CC_8000/M2.flac",
+                        path: "WB_samples/CC_7200/M2_cc_7200_orig.flac",
                         hide: false
                     },
 
                 ]
             },
             {
-                title: "<i class='fas fa-male'></i> M2</i>",
+                title: "<i class='fas fa-male'></i> M2",
                 hide: false,
                 content: [
                     {
                         title: "exp3_lg = 3.6 kbps",
-                        path: "WB_samples/nf_100_fs_32_lg_03/M2.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_03/M2_cc_3600_ft_lg_03.flac",
                         hide: false
                     },
                     {
                         title: "exp4_lg",
-                        path: "WB_samples/nf_100_fs_32_lg_04/M2.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_04/M2_cc_3600_ft_lg_04.flac",
                         hide: false
                     },
                     {
                         title: "exp12_lg",
-                        path: "WB_samples/nf_100_fs_32_lg_12/M2.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_12/M2_cc_3600_ft_lg_12.flac",
                         hide: false
                     },
 
                 ]
             },
             {
-                title: "<i class='fas fa-female'></i> F1</i>: Original",
+                title: "<i class='fas fa-female'></i> F1: Original",
                 transcription: "The idea is to show both are just straight. The kitten chased the dog down the street.",
                 hide: false,
                 content: [
                     {
                         title: "Original input",
-                        path: "WB_samples/original/F1.flac",
+                        path: "WB_samples/original/F1_orig.flac",
                         hide: false
                     },
                     {
                         title: "7.2 kbps (original)",
-                        path: "WB_samples/CC_8000/F1.flac",
+                        path: "WB_samples/CC_7200/F1_cc_7200_orig.flac",
                         hide: false
                     },
 
                 ]
             },
             {
-                title: "<i class='fas fa-female'></i> F1</i>",
+                title: "<i class='fas fa-female'></i> F1",
                 hide: false,
                 content: [
                     {
                         title: "exp3_lg = 3.6 kbps",
-                        path: "WB_samples/nf_100_fs_32_lg_03/F1.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_03/F1_cc_3600_ft_lg_03.flac",
                         hide: false
                     },
                     {
                         title: "exp4_lg",
-                        path: "WB_samples/nf_100_fs_32_lg_04/F1.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_04/F1_cc_3600_ft_lg_04.flac",
                         hide: false
                     },
                     {
                         title: "exp12_lg",
-                        path: "WB_samples/nf_100_fs_32_lg_12/F1.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_12/F1_cc_3600_ft_lg_12.flac",
                         hide: false
                     },
 
                 ]
             },
             {
-                title: "<i class='fas fa-female'></i> F2</i>: Original",
+                title: "<i class='fas fa-female'></i> F2: Original",
                 transcription: "The stray cat gave birth to kittens. The young girl gave no clear response.",
                 hide: false,
                 content: [
                     {
                         title: "Original input",
-                        path: "WB_samples/original/F2.flac",
+                        path: "WB_samples/original/F2_orig.flac",
                         hide: false
                     },
                     {
                         title: "7.2 kbps (original)",
-                        path: "WB_samples/CC_8000/F2.flac",
+                        path: "WB_samples/CC_7200/F2_cc_7200_orig.flac",
                         hide: false
                     },
 
                 ]
             },
             {
-                title: "<i class='fas fa-female'></i> F2</i>",
+                title: "<i class='fas fa-female'></i> F2",
                 hide: false,
                 content: [
                     {
                         title: "exp3_lg = 3.6 kbps",
-                        path: "WB_samples/nf_100_fs_32_lg_03/F2.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_03/F2_cc_3600_ft_lg_03.flac",
                         hide: false
                     },
                     {
                         title: "exp4_lg",
-                        path: "WB_samples/nf_100_fs_32_lg_04/F2.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_04/F2_cc_3600_ft_lg_04.flac",
                         hide: false
                     },
                     {
                         title: "exp12_lg",
-                        path: "WB_samples/nf_100_fs_32_lg_12/F2.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_12/F2_cc_3600_ft_lg_12.flac",
                         hide: false
                     },
 
@@ -1689,160 +1689,160 @@ export const DATA = [
         ],
         content: [
             {
-               title: "<i class='fas fa-male'></i> M1</i>: Original",
+               title: "<i class='fas fa-male'></i> M1: Original",
                 transcription: "Slide the box into that empty space. The plant grew large and green in the window.",
                 hide: false,
                 content: [
                     {
                         title: "Original input",
-                        path: "WB_samples/original/M1.flac",
+                        path: "WB_samples/original/M1_orig.flac",
                         hide: false
                     },
                     {
                         title: "7.2 kbps (original)",
-                        path: "WB_samples/CC_8000/M1.flac",
+                        path: "WB_samples/CC_7200/M1_cc_7200_orig.flac",
                         hide: false
                     },
 
                 ]
             },
             {
-                title: "<i class='fas fa-male'></i> M1</i>",
+                title: "<i class='fas fa-male'></i> M1",
                 hide: false,
                 content: [
                     {
                         title: "exp3_lg = 3.6 kbps",
-                        path: "WB_samples/nf_100_fs_32_lg_03/M1.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_03/M1_cc_3600_ft_lg_03.flac",
                         hide: false
                     },
                     {
                         title: "exp4_lg",
-                        path: "WB_samples/nf_100_fs_32_lg_04/M1.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_04/M1_cc_3600_ft_lg_04.flac",
                         hide: false
                     },
                     {
                         title: "exp13_lg",
-                        path: "WB_samples/nf_100_fs_32_lg_13/M1.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_13/M1_cc_3600_ft_lg_13.flac",
                         hide: false
                     },
 
                 ]
             },
             {
-                title: "<i class='fas fa-male'></i> M2</i>: Original",
+                title: "<i class='fas fa-male'></i> M2: Original",
                 transcription: "He broke a new shoelace that day. The coffee stand is too high for the couch.",
                 hide: false,
                 content: [
                     {
                         title: "Original input",
-                        path: "WB_samples/original/M2.flac",
+                        path: "WB_samples/original/M2_orig.flac",
                         hide: false
                     },
                     {
                         title: "7.2 kbps (original)",
-                        path: "WB_samples/CC_8000/M2.flac",
+                        path: "WB_samples/CC_7200/M2_cc_7200_orig.flac",
                         hide: false
                     },
 
                 ]
             },
             {
-                title: "<i class='fas fa-male'></i> M2</i>",
+                title: "<i class='fas fa-male'></i> M2",
                 hide: false,
                 content: [
                     {
                         title: "exp3_lg = 3.6 kbps",
-                        path: "WB_samples/nf_100_fs_32_lg_03/M2.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_03/M2_cc_3600_ft_lg_03.flac",
                         hide: false
                     },
                     {
                         title: "exp4_lg",
-                        path: "WB_samples/nf_100_fs_32_lg_04/M2.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_04/M2_cc_3600_ft_lg_04.flac",
                         hide: false
                     },
                     {
                         title: "exp13_lg",
-                        path: "WB_samples/nf_100_fs_32_lg_13/M2.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_13/M2_cc_3600_ft_lg_13.flac",
                         hide: false
                     },
 
                 ]
             },
             {
-                title: "<i class='fas fa-female'></i> F1</i>: Original",
+                title: "<i class='fas fa-female'></i> F1: Original",
                 transcription: "The idea is to show both are just straight. The kitten chased the dog down the street.",
                 hide: false,
                 content: [
                     {
                         title: "Original input",
-                        path: "WB_samples/original/F1.flac",
+                        path: "WB_samples/original/F1_orig.flac",
                         hide: false
                     },
                     {
                         title: "7.2 kbps (original)",
-                        path: "WB_samples/CC_8000/F1.flac",
+                        path: "WB_samples/CC_7200/F1_cc_7200_orig.flac",
                         hide: false
                     },
 
                 ]
             },
             {
-                title: "<i class='fas fa-female'></i> F1</i>",
+                title: "<i class='fas fa-female'></i> F1",
                 hide: false,
                 content: [
                     {
                         title: "exp3_lg = 3.6 kbps",
-                        path: "WB_samples/nf_100_fs_32_lg_03/F1.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_03/F1_cc_3600_ft_lg_03.flac",
                         hide: false
                     },
                     {
                         title: "exp4_lg",
-                        path: "WB_samples/nf_100_fs_32_lg_04/F1.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_04/F1_cc_3600_ft_lg_04.flac",
                         hide: false
                     },
                     {
                         title: "exp13_lg",
-                        path: "WB_samples/nf_100_fs_32_lg_13/F1.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_13/F1_cc_3600_ft_lg_13.flac",
                         hide: false
                     },
 
                 ]
             },
             {
-                title: "<i class='fas fa-female'></i> F2</i>: Original",
+                title: "<i class='fas fa-female'></i> F2: Original",
                 transcription: "The stray cat gave birth to kittens. The young girl gave no clear response.",
                 hide: false,
                 content: [
                     {
                         title: "Original input",
-                        path: "WB_samples/original/F2.flac",
+                        path: "WB_samples/original/F2_orig.flac",
                         hide: false
                     },
                     {
                         title: "7.2 kbps (original)",
-                        path: "WB_samples/CC_8000/F2.flac",
+                        path: "WB_samples/CC_7200/F2_cc_7200_orig.flac",
                         hide: false
                     },
 
                 ]
             },
             {
-                title: "<i class='fas fa-female'></i> F2</i>",
+                title: "<i class='fas fa-female'></i> F2",
                 hide: false,
                 content: [
                     {
                         title: "exp3_lg = 3.6 kbps",
-                        path: "WB_samples/nf_100_fs_32_lg_03/F2.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_03/F2_cc_3600_ft_lg_03.flac",
                         hide: false
                     },
                     {
                         title: "exp4_lg",
-                        path: "WB_samples/nf_100_fs_32_lg_04/F2.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_04/F2_cc_3600_ft_lg_04.flac",
                         hide: false
                     },
                     {
                         title: "exp13_lg",
-                        path: "WB_samples/nf_100_fs_32_lg_13/F2.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_13/F2_cc_3600_ft_lg_13.flac",
                         hide: false
                     },
 
@@ -1861,160 +1861,160 @@ export const DATA = [
         ],
         content: [
             {
-               title: "<i class='fas fa-male'></i> M1</i>: Original",
+               title: "<i class='fas fa-male'></i> M1: Original",
                 transcription: "Slide the box into that empty space. The plant grew large and green in the window.",
                 hide: false,
                 content: [
                     {
                         title: "Original input",
-                        path: "WB_samples/original/M1.flac",
+                        path: "WB_samples/original/M1_orig.flac",
                         hide: false
                     },
                     {
                         title: "7.2 kbps (original)",
-                        path: "WB_samples/CC_8000/M1.flac",
+                        path: "WB_samples/CC_7200/M1_cc_7200_orig.flac",
                         hide: false
                     },
 
                 ]
             },
             {
-                title: "<i class='fas fa-male'></i> M1</i>",
+                title: "<i class='fas fa-male'></i> M1",
                 hide: false,
                 content: [
                     {
                         title: "exp3_lg = 3.6 kbps",
-                        path: "WB_samples/nf_100_fs_32_lg_03/M1.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_03/M1_cc_3600_ft_lg_03.flac",
                         hide: false
                     },
                     {
                         title: "exp4_lg",
-                        path: "WB_samples/nf_100_fs_32_lg_04/M1.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_04/M1_cc_3600_ft_lg_04.flac",
                         hide: false
                     },
                     {
                         title: "exp14_lg",
-                        path: "WB_samples/nf_100_fs_32_lg_14/M1.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_14/M1_cc_3600_ft_lg_14.flac",
                         hide: false
                     },
 
                 ]
             },
             {
-                title: "<i class='fas fa-male'></i> M2</i>: Original",
+                title: "<i class='fas fa-male'></i> M2: Original",
                 transcription: "He broke a new shoelace that day. The coffee stand is too high for the couch.",
                 hide: false,
                 content: [
                     {
                         title: "Original input",
-                        path: "WB_samples/original/M2.flac",
+                        path: "WB_samples/original/M2_orig.flac",
                         hide: false
                     },
                     {
                         title: "7.2 kbps (original)",
-                        path: "WB_samples/CC_8000/M2.flac",
+                        path: "WB_samples/CC_7200/M2_cc_7200_orig.flac",
                         hide: false
                     },
 
                 ]
             },
             {
-                title: "<i class='fas fa-male'></i> M2</i>",
+                title: "<i class='fas fa-male'></i> M2",
                 hide: false,
                 content: [
                     {
                         title: "exp3_lg = 3.6 kbps",
-                        path: "WB_samples/nf_100_fs_32_lg_03/M2.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_03/M2_cc_3600_ft_lg_03.flac",
                         hide: false
                     },
                     {
                         title: "exp4_lg",
-                        path: "WB_samples/nf_100_fs_32_lg_04/M2.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_04/M2_cc_3600_ft_lg_04.flac",
                         hide: false
                     },
                     {
                         title: "exp14_lg",
-                        path: "WB_samples/nf_100_fs_32_lg_14/M2.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_14/M2_cc_3600_ft_lg_14.flac",
                         hide: false
                     },
 
                 ]
             },
             {
-                title: "<i class='fas fa-female'></i> F1</i>: Original",
+                title: "<i class='fas fa-female'></i> F1: Original",
                 transcription: "The idea is to show both are just straight. The kitten chased the dog down the street.",
                 hide: false,
                 content: [
                     {
                         title: "Original input",
-                        path: "WB_samples/original/F1.flac",
+                        path: "WB_samples/original/F1_orig.flac",
                         hide: false
                     },
                     {
                         title: "7.2 kbps (original)",
-                        path: "WB_samples/CC_8000/F1.flac",
+                        path: "WB_samples/CC_7200/F1_cc_7200_orig.flac",
                         hide: false
                     },
 
                 ]
             },
             {
-                title: "<i class='fas fa-female'></i> F1</i>",
+                title: "<i class='fas fa-female'></i> F1",
                 hide: false,
                 content: [
                     {
                         title: "exp3_lg = 3.6 kbps",
-                        path: "WB_samples/nf_100_fs_32_lg_03/F1.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_03/F1_cc_3600_ft_lg_03.flac",
                         hide: false
                     },
                     {
                         title: "exp4_lg",
-                        path: "WB_samples/nf_100_fs_32_lg_04/F1.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_04/F1_cc_3600_ft_lg_04.flac",
                         hide: false
                     },
                     {
                         title: "exp14_lg",
-                        path: "WB_samples/nf_100_fs_32_lg_14/F1.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_14/F1_cc_3600_ft_lg_14.flac",
                         hide: false
                     },
 
                 ]
             },
             {
-                title: "<i class='fas fa-female'></i> F2</i>: Original",
+                title: "<i class='fas fa-female'></i> F2: Original",
                 transcription: "The stray cat gave birth to kittens. The young girl gave no clear response.",
                 hide: false,
                 content: [
                     {
                         title: "Original input",
-                        path: "WB_samples/original/F2.flac",
+                        path: "WB_samples/original/F2_orig.flac",
                         hide: false
                     },
                     {
                         title: "7.2 kbps (original)",
-                        path: "WB_samples/CC_8000/F2.flac",
+                        path: "WB_samples/CC_7200/F2_cc_7200_orig.flac",
                         hide: false
                     },
 
                 ]
             },
             {
-                title: "<i class='fas fa-female'></i> F2</i>",
+                title: "<i class='fas fa-female'></i> F2",
                 hide: false,
                 content: [
                     {
                         title: "exp3_lg = 3.6 kbps",
-                        path: "WB_samples/nf_100_fs_32_lg_03/F2.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_03/F2_cc_3600_ft_lg_03.flac",
                         hide: false
                     },
                     {
                         title: "exp4_lg",
-                        path: "WB_samples/nf_100_fs_32_lg_04/F2.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_04/F2_cc_3600_ft_lg_04.flac",
                         hide: false
                     },
                     {
                         title: "exp14_lg",
-                        path: "WB_samples/nf_100_fs_32_lg_14/F2.flac",
+                        path: "WB_samples/nf_100_fs_32_lg_14/F2_cc_3600_ft_lg_14.flac",
                         hide: false
                     },
 
